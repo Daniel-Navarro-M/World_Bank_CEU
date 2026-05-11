@@ -1,0 +1,429 @@
+﻿Parental Investment and Socio-Economic Gaps in [a]Early-Grade Performance: Evidence from Trends in International Mathematics and Sciences Study (TIMSS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authors: Navarro, Daniel; Downes, Róisín; Shekhawat, Taneesha; Mfon, Unyime-Young
+CEU Supervisor: Weiler, Florian
+World Bank Supervisors: Avitabile, Ciro;  Shmis, Tigran; Toppeta, Alessandro
+Introduction        3
+Research Hypotheses        4
+Theoretical Framework        4
+Socioeconomic Status (SES)        5
+Parental Investment        6
+Moderation: The Interaction Between Parental Education and Parental Investment        8
+Synthesis        9
+TIMSS Data Description        11
+Methodology        11
+Descriptive Statistics        13
+Parental Education as a Proxy for Socio-Economic Status        14
+External Validation against World Bank Data        19
+Parental Investment        21
+Parental Investment Gradients by Parental Education        27
+Correlation Between Math and PI        30
+References        35
+Appendix        40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Socioeconomic gaps in children’s educational achievement are a widespread challenge across Europe. Latest research works using international assessment data evidencing the prevalence of socioeconomic status (SES)-oriented education achievement gaps in Europe, indicating that students from higher SES households consistently achieved higher grades in mathematics and science subjects than their contemporaries from lower SES backgrounds. These analyses reveal systemic gaps with regards to access to resources, learning environments, and educational opportunities (Ciro et al., 2025; Mullis et al., 2024; OECD, 2023).
+
+
+Similarly, these gaps are also persistent in the Balkans – a region generally known as the Western Balkans, which comprises Serbia, North Macedonia, Kosovo, Albania, Bosnia and Herzegovina, and Montenegro. These countries often participate in international assessments, including TIMSS and PISA, and always provide relevant evidence on educational gaps and learning outcomes in their respective countries (UNICEF, 2023). The reasonable progress in expanding access to education in these countries is below the average witnessed in OECD countries and across the European Union (OECD, 2022).[b]
+
+
+Furthermore, several studies highlighted the contributory factors to the SES-based achievement disparities, including differences in parental education, home learning environment, parental investment, access to learning materials and school quality[c]. These factors critically shape children’s educational outcomes. Differences in the teaching approaches, school environments, and level of access to educational supports further widen the gaps between economically advantaged and disadvantaged children (OECD, 2019; Sirin, 2005). These factors operate differently across different education systems depending on institutional capability, policy framework, and social inequality.
+
+
+Empirical research on educational inequality and achievement gaps in the Balkans mostly explores later stages of schooling based on the PISA assessment of adolescents (age fifteen). While these research works provide critical understanding of gaps in secondary education, they offer limited insight into how gaps emerge in children’s early education trajectory (OECD, 2020). Understanding the nature and dynamics of gaps that emerge early in children’s education pathways is critical [d]because foundational skills in mathematics and science subjects significantly shape later academic achievements.
+
+
+Therefore, this policy brief addresses this disparity by focusing on early-grade learning outcomes, using TIMSS 2019–2023 data to analyse Grade 4 mathematics achievement across Europe and in the Balkan region. The aim is to understand how SES influences children’s early-grade performance and achievement. [e]Parental education and parental investment will be leveraged as proxies to examine how family background contributes to SES-based achievement gaps. This insight is critical [f]for designing and implementing policies that will address foundational inequality rather than remedying disparities that show up later.[g]
+Research Hypotheses
+Drawing from the theoretical framework below, this research will test the following hypotheses.[h]
+H1: Socioeconomic status (proxied by parental education) is positively associated with Math achievement in the Balkans.
+H2: Parental investment activities are positively associated with Math achievement in the Balkans.
+H3: Parental education is positively associated with parental investment activities in the Balkans. 
+H4 A: The association between parental investment and Grade 4 Math achievement will be stronger among children with parents with lower education. (Matthew Effect Hypothesis)[i]
+H4 B: The association between parental investment and Grade 4 math achievement will be stronger among children whose parents have lower levels of education. (Compensatory Hypothesis)
+Theoretical Framework
+This policy research is based on a theoretical framework that brings socioeconomic status (SES), parental investment, and student learning outcomes within the context of human capital formation. It emphasises the role of home learning environments and family background in shaping children’s educational development, with a focus on the Western Balkans. While there is a wide body of research on the relationship between SES and educational outcomes and a smaller body of research on parental investment and educational outcomes, each has attracted considerable scholarly attention. This research unites these two bodies of literature in the Balkan context, examining not only whether each factor matters, but also how they interact. 
+Socioeconomic Status (SES)
+Substantial literature demonstrates that students from higher socioeconomic backgrounds significantly achieve better outcomes in mathematics and science subjects than their peers from lower socioeconomic backgrounds (Sirin, 2025; Yigiter, 2025). Socioeconomic status encompasses parental education, occupation, and income, which collectively determine the resources and support available to children. Comparative evidence demonstrates variation in the SES-achievement gradient between educational systems in the Western Balkans and those of Europe, signifying structural differences in schooling conditions and wider socioeconomic settings (Džumhur et. al, 2025).
+This study uses parental education as a proxy for SES, an approach that is commonly used in the literature (Carneiro, Reis & Toppeta, 2025). Parental education is not only the most consistently measured SES indicator across TIMSS datasets, but it is also theoretically central, indicating that the more educated parents are, the more efficiently they can select appropriate cognitive activities that respond to their children’s learning needs and create high-quality home learning environments (Cunha & Heckman, 2007).[j]
+SES shapes children’s education outcomes at both the household and school levels. At the individual or household level, qualities such as parental education and income available at home (family background) shape children’s access to learning resources and educational support. Higher-SES households are more likely to afford educational materials, private tutoring, and cognitively stimulating home environments (Erdem & Kaya, 2023). Parental expectations and role modelling also crucially shape children's academic trajectories: parents with higher educational attainment tend to hold higher academic expectations for their children and model behaviours that reinforce those expectations (Masud, Thurasamy, & Ahmad, 2015). At the school level, the socioeconomic composition of students and available school resources influence academic outcomes. Yigiter (2025) asserts that school-level SES can exert greater influence on achievement than individual family background, as schools serving more economically advantaged students typically benefit from stronger resources and peer network effects. [k]
+Despite these general patterns, the relationship between socioeconomic status and learning outcomes varies considerably between Europe and the Western Balkans. Socioeconomic status strongly determines academic achievement in most European educational systems, leading to noticeable achievement gradients between economically advantaged and disadvantaged students (Broer, Bai, & Fonseca, 2019). In contrast, in the Western Balkan countries, SES-achievement disparities seem narrow, not because students from lower SES perform better, but because overall learning outcomes are low across the student population (OECD, 2020).[l] For instance, a considerable share of students in some Western Balkan education systems fail to reach minimum proficiency in international assessments, meaning that even students from relatively economically advantaged households perform below international benchmarks. There is, nevertheless, meaningful within-region variation: Serbia and Croatia show relatively strong SES-achievement relationships, while in Albania the SES gap exceeds the OECD average (OECD, 2020). These variations underscore the importance of national institutional context. 
+Parental Investment
+Parental investment in children’s learning, especially the amount of time spent on reading and numeracy activities at home, represents a crucial behavioural component that translates into educational outcomes. According to Reardon (2018), higher-SES parents are more likely to invest sufficient time and resources in their children’s educational routines, including homework support, reading, and numeracy-associated exercises. These variations in parental involvement are critical determinants of mathematics and cognitive reasoning achievement (Bosire, Palermo, & Napoli, 2025).
+Higher-SES parents are more likely to adopt a parenting approach that intentionally organises children’s activities in a manner that promotes cognitive formation, including exposure to intellectually stimulating activities and active involvement in home learning (Readon, 2018). Parental investment comprises both direct activities, such as practicing counting or supporting homework, and indirect activities, such as integrating mathematical concepts into cooking or board games (Daucourt  et al., 2021). Both channels support the formation of mathematical intuition.
+Lower-SES parents face substantial barriers to such engagement. Time poverty is a common constraint[m]: parents working multiple jobs often cannot devote sufficient time to educational activities with their children (Anders et al., 2012). The difference in parental self-efficacy and perception[n] of their role in education often shapes their participation in home learning activities. Some often consider their children’s education the primary responsibility of teachers and, as a result, become less engaged in home-based literacy and numeracy activities (Yigiter, 2025). Children from low-income households often have limited access to educational materials such as books and digital learning tools to enhance home-based learning (Yigiter, 2025).
+These dynamics establish a theoretical basis for H3: parental education is expected to be positively associated with parental investment activities, because more educated parents have greater capacity, confidence, and motivation to engage in structured home learning. This relationship is supported by evidence from Carneiro et al. (2025), who demonstrate that parental investment inequality, including differences in home learning behaviours, is a stronger predictor of cross-national learning disparities than public investment. 
+Meta-analytic evidence shows that parental investment in learning activities has a positive and statistically significant association with children’s mathematics achievement, even though the effect size is modest (Daucourt et al., 2021). Parental expectations and beliefs are among the most influential components:[o] when parents communicate educational values to their children, those values are internalised as motivation and persistence (Evans & Field, 2020; Fiskerstrand & Hannula , 2025). Supportive parenting styles and warm home environments further promote achievement by mitigating mathematics anxiety, which is a known barrier to mathematics performance (Masud, Thurasamy & Ahmad, 2015; OECD, 2020)
+Moderation: The Interaction Between Parental Education and Parental Investment
+A key theoretical contribution of this research is its attention to how parental education and parental investment interact. The relationship between parental investment and children’s achievement is not expected to be uniform across all families. It is expected to vary by the level of parental education. Differing views in literature explain this variation. On one hand, we see the Matthew effect[p], which describes a process of cumulative advantage: those who begin with more tend to accumulate further gains, while those who start with less fall progressively further behind (Merton, 1968; Walberg and Tsai, 1983). Research demonstrates that even in high-quality, universal early childhood education systems, differential effects on outcomes favour children from socioeconomically advantaged families, affirming the Matthew effect.[q] 
+Critically, the Matthew effect is not limited to the school alone. It has also been extended to the domain of parental investment. A landmark meta-analysis found that families in better living conditions profited more from parent education interventions than lower-SES families, empirically demonstrating the Matthew effect in home learning environments (Bakermans-Kranenburg, Van Ijzendoorn & Bradley, 2005). This finding is consequential for our study, as it suggests that not only are higher-SES parents more likely to engage in structured learning activities with their children, but when they are prompted or supported to do so, their children extract greater benefit from those activities. Resulting in the implication that the Matthew effect does not merely describe persistent advantage, but it actively amplifies inequality through the differential returns to parental investment itself.
+The empirical picture is not uniformly in favour of the Matthew effect. Herrmann (2022) investigated whether Matthew or compensatory effects govern primary school mathematics development in Germany and found evidence of compensatory effects for low- and middle-achieving students. They also found that while parental education level was a decisive factor in maths achievement, performance differences related to parental education diminished over time rather than widening. This is the starting point for the theoretical basis for H4. 
+An important aspect of Cunha and Heckman’s (2007) principle of dynamic complementarity, which holds that early skills and investments enhance the returns to later investments, provides a further theoretical basis for this hypothesis. Where one input is relatively scarce, here parental education, the marginal returns to other inputs may be higher. For children whose parents have lower education attainment, the home learning environment is less cognitively rich by default, meaning that deliberate engagement in numeracy and literacy activities represents a meaningful addition to what would otherwise be unavailable. Whereas for children of more highly educated parents, the marginal contribution of such activities may be smaller. Taken together, Herrmann’s (2022) compensatory evidence and Cunha and Heckman’s (2007) complementarity principle suggest that the Matthew effect may not be entirely deterministic in mathematics, providing the theoretical basis for H4. 
+Synthesis
+The theoretical framework presented integrates three interconnected bodies of literature: SES & educational achievement, parental investment & home learning, and the Matthew effect alongside its limits. We create this framework to address a specific and relatively unexplored question in the Balkan context: whether parental learning activities can mitigate the SES-induced gaps in educational outcomes that persistently characterise the region. 
+The framework establishes that SES, proxied here by parental education, shapes children’s mathematics achievement (H1). Parental education determines not only what resources are available in the home but also how efficiently parents deploy them, which sets the tone of the home learning environment. While the material dimensions of SES, such as access to books and technology, have received considerable scholarly attention, this study turns to the behavioural dimension: the time parents devote to specific numeracy and literacy activities with their children. By exploiting the TIMSS Grade 4 Parental Questionnaire, which tracks 18 distinct learning activities, we isolate the activity component of parental investment from the material components directly tied to SES.
+Furthermore, the framework establishes that parental education also influences the frequency and quality of parental investment activities themselves (H3). Illustrating that parental education and parental investment are not independent pathways to achievement, but they are causally linked. Understanding this relationship is essential to interpreting the SES-achievement gradient in the Balkans. 
+The moderation hypothesis (H4) looks at a more novel idea. The Matthew effect predicts that advantages compound, meaning higher-SES families extract greater gains from the same educational inputs. If this holds without limit, this would suggest the scope for compensatory policy would be narrow.  However, the compensatory evidence from primary school mathematics (Herrmann, 2022), combined with Cunha and Heckman's (2007) principle of dynamic complementarity, suggests a more nuanced picture: when parental human capital is low, deliberate investment in home learning activities may carry a higher marginal return due to the less resourced environment. The Matthew effect may be the dominant pattern, but the literature shows it may not be deterministic in mathematics, which is the basis in which H4 is grounded. 
+Together, the four hypotheses of this study form [r]a coherent causal chain: parental education shapes both direct achievement outcomes and the propensity to invest in home learning activities; parental investment activities independently contribute to achievement; and the return to those activities is hypothesised to be larger where parental education is lower. The final hypothesis carries particular policy relevance in the Western Balkans, as if parental investment activities function as a compensatory mechanism, they represent a potential lever for policymakers seeking to reduce educational inequality in the region. 
+Box 1: TIMSS Data [s]
+TIMSS Data Description [t][u]
+This brief uses TIMSS (2019–2024) data administered by the International Association for the Evaluation of Education Achievement (IEA) to examine early-grade achievement disparities in the Balkans. TIMSS data explores mathematics and science at Grades 4 and 8 every four (4) years using a two-stage cluster sampling design. The design combines stratification variables, sampling weights, school-level clustering, and jackknife replicate weights for national representation and statistically valid estimation (IEA, 2023). For more in-depth information on the sampling design and inclusion/exclusion criteria, see Appendix 2. 
+TIMSS and the Programme for International Student Assessment (PISA) both evaluate student learning outcomes. However, TIMSS and PISA differ in approach and concept. While TIMSS consists of comprehensive parental investment (including learning activities) and home learning environment on Grade 4 students' foundational learning outcomes in mathematics and science, PISA evaluates students' competency and literacy achievement at age 15.[v] Therefore, instead of PISA, we adopted TIMSS data and its framework as a methodological guide for this study due to its appropriateness in examining basic early skill formation and SES consistent with human capital development theory (Almond & Currie, 2011). TIMSS data used in this analysis comprises 24 countries in the 2019 survey and 24 countries in the 2023 survey, capturing Western, Central, and Eastern European nations and the Balkans.
+	Methodology
+NOTE: Longitudinal dataset changes PI questions for 2024. However, as the effect should be PI on the year before, it makes sense to keep PI answers for the previous year to see if that affected the students' outcome. 
+This analytical approach allowed us to examine Grade 4 mathematics achievement with five plausible values. In order to understand the distribution of achievement, we took the percentile distribution across the entire region using the students' weights.
+Our methodological structure is comprised of two parts: factor analysis to identify and weight relevant indicators and a two-fixed-effects model to assess the causal relationship between parental education/[w][x]parental investment and Grade 4 mathematics achievement on longitudinal data drawn from the recent TIMSS 2023-4 Longitudinal survey. [y]
+In this analysis, parental education serves as the proxy measure for household Socio-Economic Status (SES). The variable for education we used is a derived variable provided within the TIMSS. That is the highest of either parents’ education level (ASDHEDUP). Parental education captures the highest level of education attained by either parent, coded into 6 categories – University degree or higher, Post-secondary, Upper secondary; Lower secondary; Primary or none; with two residual categories for omitted/invalid responses and questionnaires that were not administered. Additionally, a binary variable, ‘Parent Education Binary’, is derived from the TIMSS Parental Education (ASDHEDUP) data recoded as 1 if the highest educated parent has above upper secondary education and 0 if they have upper secondary or below level education, according to International Standard Classification of Education (ISCED) classifications. External validation with World Bank data on education levels shows a strong correlation, reflecting the validity of the variable. (Figs 4 & 5)
+To estimate country-level differences in math achievement, we employed survey-weighted linear regression models. To account for the complex sampling design, standard errors were estimated using the Jackknife repeated replication method (JK2) across 75 variance strata. The analysis was conducted independently for each of the five plausible values of mathematical proficiency to capture the measurement error of the latent construct. Following Rubin’s Rules, the results from these five iterations were pooled to produce a single point estimate and a total variance that incorporates both sampling and imputation uncertainty. This approach allows for a robust comparison of the achievement gap (measured in percentile shifts) associated with socioeconomic background across different countries.
+Within the Home Questionnaire of TIMSS 2019 and 2023, a section on parental investment (ASH01A-R) is included, where parents are asked to rank how often they engage in an activity: Often (every day), Sometimes (weekly), and Never. The questions consist of activities relating to numeracy (e.g. sing counting songs, drawing shapes) and literacy (e.g., reading books, playing with alphabet toys). In order to analyse parental investment, we create a Parental Investment Index (PI Index), where each question was turned to a binary where Often = 1 and Sometimes/Never = 0, the index was the sum of responses. Where a parent with a Parental Index score of 18 would have responded “Often” to all 18 of the questions.
+As for the parental investment, we ran a regression of using the parental education binary as a dummy on the Parental Investment Index[z]. Formally, for each country and survey year, we estimated the model PI_{ict} = α_{ct} + β_{ct} ParentEdu_{ict} + ε_{ict}, where ( PI_{ict} ) denotes the parental investment index for student (i) in country (c) and year (t), and ( ParentEduBinary_{ict} ) takes the value 1 if the highest educated parent has more than upper secondary education and 0 otherwise. The coefficient of interest, β_{ct}, captures the average difference in parental investment between students from higher-educated and lower-educated households. As with the other estimations in this study, the model was implemented using the TIMSS sampling weights and replication design so as to account appropriately for the complex survey structure.
+[TWO WAY FIXED EFFECTS PLACEHOLDER] : Add explanation for TWFE
+[CONCLUSION PLACEHOLDER] This methodology offers a thorough policy-relevant examination of how socioeconomic gaps are structured in early-grade performance achievement in the Balkan education systems through the integration of survey-correct estimation, factor-based measurement of parental investment, and panel fixed effects modeling.
+
+
+ 
+Descriptive Statistics
+The following section provides an overview of the exploratory data analysis of the TIMSS data from the 2019 and 2023 cycles, particularly examining the variables on parental education, mathematics test scores, and parental investment. 
+Parental Education as a Proxy for Socio-Economic Status
+Parental educational attainment across the TIMSS 2019 and 2023 cycles improved considerably from 60 to 67 per cent for the Upper Secondary level and from 35.7 to 40.2 per cent for the University Degree level. However, the percentage of parents with Post-Secondary education decreased from 14.9 in 2019 to 12.1 in 2023. Similar declining trends were also seen in Lower-Secondary education, with the percentage being 6.2 in 2019 and 4.4 in 2023. Primary education remained relatively stable between 2.2 and 2.7 percent in both years. Moreover, the ‘Not Administered’ percentage increased from 15 percent in 2019 to 21.7 percent in 2023.
+Figure 1: Distribution of Parent Education by levels (2019)[aa][ab]  
+Figure 2: Distribution of Parent Education by levels (2023)  
+
+
+Figure 3: Distribution of Parental Education by levels comparing Balkan and other European countries, 2023
+  
+
+Looking closely at the distribution of Parental Education at the country level, we notice substantial cross-national divergence. Northern and Western European countries rank higher in the distribution. In 2019, Belgium (Flemish) recorded the highest University Degree share at 53.1 per cent, followed by Finland at 52.9 per cent and Denmark at 42.7 per cent. On the other hand, Western Balkan countries anchor at the lower end. Albania ranked the lowest, with only 17.9 per cent of parents with University Degrees. Kosovo and Montenegro are also in the same bracket with 19.9 per cent and 23.6 per cent, respectively. Bosnia and Herzegovina reported only 21.6 per cent of University education, but with a considerably high share of Upper Secondary education of 58 per cent. Moreover, Bosnia saw a drastic increase in the Not Administered rate from 5.5 per cent in 2019 to 43.4 per cent in 2023. This requires further exploration to interpret changes in the later cycles to address the comparability concerns across years. 
+These trends indicate near-stagnatioon in the Balkan countries while the Western and Northern European countries kept recording higher percentage levels in parental education. These trends suggest that the gap in educational attainment levels between the Western Balkan countries and the other European countries is evidently wide and growing. However, these cross-national variations are necessary to test H1(that parental education is positively associated with Grade 4 Math achievement). This variation establishes the presence of substantial SES differentiation that might translate to differences in Math achievements. The presence of Balkan countries at the lower end of the education distribution also creates conditions for H3 (parental education predicting parental investment) to be most observable given that lower parental education can limit the capacity needed to provide resources for parental investment activities. Finally, in countries where less proportion of the parents have higher levels of education, the marginal effect of parental investment might be stronger among those students with lower SES. The TIMSS longitudinal data possibly will aid in further exploration of these ideas. 
+In sum, the uneven distribution of parental education across the Balkans and the rest of Europe is essential contextual evidence to interpret differences in Math achievements given their SES and parental investment.
+
+
+Table 1: Country-level Distribution of Parental Education (2019)[ac]
+  
+________________
+
+Table 2: Country-level Distribution of Parental Education (2023)  
+Table 3: Country-level Distribution of Parental Education Binary (2019)  
+
+
+Table 4: Country-level Distribution of Parental Education Binary (2023)
+  
+
+External Validation against World Bank Data 
+Assessing the validity of the parental education binary as a proxy for education levels in the actual population, we compared the country-level averages from the TIMSS data with tertiary education figures from the World Bank. The correlation with country-level tertiary attainment rates from World Bank data was 0.777 in 2019 for 25 countries and 0.735 in 2023 for 23 countries. Correlation coefficients for both years are substantively strong, attesting to the robustness of the TIMSS-derived binary parental education variable.
+From Figures 4 and 5, it is evident that there are several country-level deviations from the fitted regression line. Denmark and Norway are outliers above the trend in both years. Albania and Serbia remain at the lower end of the trend in both years. Bosnia and Herzegovina is also consistently at the bottom. This positioning of the Balkan countries reinforces the fact that they are characterised by relatively low parental education levels, even when compared against data from external sources. It reflects structural differences in educational attainment and perhaps persistent SES gaps among the regions - Balkans and the rest of Europe. Additionally, the presence of outliers above and below the trend line also suggests that there might be systematic deviations in data reported on parental education at national levels; which warrants caution while interpreting cross-country comparisons. Overall, this external validation also verifies the use of parental education variable as a proxy for SES.
+Figure 4: External validation of parental education binary against World Bank (% population 25+ with at least a bachelor's degree), r = 0.777, n = 25, 2019
+  
+
+Figure 5: External validation of parental education binary against World Bank (% population 25+ with at least a bachelor’s degree), r = 0.735, n = 23, 2023
+  
+
+
+
+Descriptive Patterns and Regional Contrasts in Parental Investment 
+When looking at the distribution of responses to the Parental Investment indicators, we see consistently low responses to “Never” (ranging from 1.90-16.8%, with the exception of “measure or weigh things” with 33.3%). Across both regions, we see lower “Often” responses to numeracy activities than to literacy activities. Though, it is notable that in Europe, we see higher rates of “Often” responses for numeracy activities than we see in the Balkans. In terms of literacy activities, the Balkans exhibits higher rates in multiple questions, but not in all. Thus, we notice there is a more pronounced gap in the Western Balkans for numeracy activities. Investigating the literacy and numeracy activities in relation to Math achievement would reflect how these patterns translate into differences in learning outcomes. Broadly, these figures further evidence that the distribution of parental[ad] investment is not uniform among the two regions. 
+Table 5: Distribution of Home Learning Activity Responses comparing Balkan and other European countries, 2023
+  
+
+Table 6 reports the weighted mean PI Index[ae] (construction explained in the Methodology section above) by region for  2019 and 2023, respectively. Across both years, it is evident that Balkan countries report the highest PI scores in the sample, while contrastingly appearing in the lower bracket of the parental education distribution. This is striking given that the same countries rank lower in the parental education tables. This paper will explore whether parental investment serves to improve the Math achievement hence reducing the effect of the SES gap. 
+
+
+Table 6: Weighted mean Parental Investment Index,  Literacy and Numeracy by Region, 2019 and 2023  
+Additionally, at the PI Index by Parental Education (Upper Secondary or less, or More than Upper Secondary) in both regions, parents with higher education recorded higher PI scores than those with lower education; consistent with H3. In Europe, the PI Index rises from 8.59 to 9.52 in 2019 and from 8.73 to 9.76 in 2023, while in the Balkans it rises from 9.51 to 10.90 in 2019 and from 9.87 to 11.29 in 2023. More importantly, the PI gap between both groups is larger in the Balkans, which could further increase the gap already generated at the socioeconomic level from the Mathew Effect. This implies that while parental investment on an average might be higher in the region overall, the SES-based gap in parental investment is more pronounced - meaning that parental investment might magnify rather than alleviate the existing SES disparities.
+Our analysis explores whether parental investment acts as a compensatory mechanism with stronger effects for students with lower SES or does it reinforce the Mathew effect where students with higher SES keep benefiting more on average. 
+Table 7: Mean Parental Investment Index, Literacy and Numeracy by Parental Education Group (Upper Secondary or less vs More than Upper Secondary, 2019 and 2023      
+  
+
+  
+
+
+
+
+
+Math Achievement Gradients by Parental Education
+SES gaps in test scores are estimated by regressing rank of the mathematics test scores on parental education (regressing the percentile distribution of the mathematics scores of the entire region on the parental education binary dummy variable). This considers five plausible values of the maths achievement, generating 150 replicates using the Jack-Knife method, and finally combining the plausible regression values using Rubin’s rules. The gradient helps estimate the differences in maths achievement between students whose at least one parent has more than upper secondary education and those who do not, for the years 2019 and 2023.
+In Europe, students with higher-educated parents score on average about 18 percentile points higher in mathematics than those with lower-educated parents in both 2019 and 2023, corresponding to roughly 0.66 standard deviations. In the Balkans, the gradients are also sizable, at around 18 percentile points in 2019 and 16 percentile points in 2023 (about 0.64 and 0.56 standard deviations, respectively). Thus, in both regions the parent-education gradient is sizable, but our interaction tests indicate that these gradients are stable over time rather than changing significantly between 2019 and 2023.
+From Table 8, it is evident that all countries in the sample show a positive, statistically significant gradient in both 2019 and 2023. At the regional level, however, the more important result is the relative stability of the pooled coefficients over time. In non-Balkan Europe, the pooled gradient remains almost unchanged, moving from 17.578 in 2019 to 17.748 in 2023. In the Balkans, the pooled gradient declines from 17.640 in 2019 to 15.801 in 2023. These year-to-year movements are modest in magnitude and are not statistically significant, indicating that the parent-education gradient in mathematics remained broadly stable between the two survey rounds. The regional contrast is also limited. In 2019, the pooled gradients for Europe and the Balkans are effectively identical, while in 2023 the European gradient is larger by just under two percentile points. This latter difference is substantively more noticeable, but it is not statistically significant at conventional levels. Taken together, the results suggest persistence rather than a meaningful change in the strength of the mathematics gradient associated with parental education.
+Country-level estimates nevertheless reveal considerable heterogeneity around these regional averages. In 2019, the smallest gradients were observed in Kosovo (9.772), Italy (11.955), and Finland (12.152), whereas the largest were recorded in Bulgaria (27.267), Lithuania (25.959), and Hungary (24.894). In 2023, the lower end of the distribution comprised Montenegro (10.238), Albania (11.684), and Italy (12.471), while the highest gradients were again concentrated in Bulgaria (30.608), Hungary (26.027), and the Slovak Republic (20.161). From a regional perspective, these country results indicate that variation within each region is substantial and considerably larger than the difference between the two regional pooled coefficients. Within the Balkans, the most notable movement is the sharp decline in Albania from 21.912 in 2019 to 11.684 in 2023, whereas Serbia remains comparatively high in both years[af]. This unusually large change for Albania should be interpreted with caution. Overall, although individual countries move within the distribution, these shifts do not alter the broader conclusion that the regional parent-education gradient remains relatively stable over time and does not differ significantly between Europe and the Balkans at conventional levels.
+________________
+
+
+Table 8: Gradient of Math Achievement on Parental Education Binary by country, 2019 and 2023   
+Figures 6 and 7 map these coefficients geographically, with green representing the lowest gradients and red the highest. In 2019, Eastern Europe and the Balkans show more variation, with Serbia, Albania, North Macedonia, France, Hungary, Lithuania, and Bulgaria in the highest bin. By 2023, the Slovak Republic, Hungary, and Bulgaria are in the highest bin (20.04-30.61) while Nordic and Mediterranean countries remain in the lowest green tier.  
+________________
+
+
+Figure 6: Map of Math-Achievement Gradient by Country, 2019. Green: Lowest, Red: Highest[ag]
+Figure 7: Map of Math-Achievement Gradient by Country, 2023. Green: Lowest, Red: Highest    
+Parental Investment Gradients by Parental Education
+Regressing the PI Index on the parental education binary, almost all country-level estimates are positive, with the Czech Republic the only exception in 2019 (−0.011). At the regional level, the parental-education gradient in parental investment is consistently larger in the Balkans than in non-Balkan Europe. The pooled gradient for Europe increased from 0.931 in 2019 to 1.032 in 2023, while the pooled gradient for the Balkans increased from 1.396 to 1.427. In substantive terms, this indicates that the gap in parental investment between higher- and lower-education households is larger in the Balkans in both years. A formal test of the regional difference confirms this pattern: in 2019 the Balkan PI-index gradient exceeded the European gradient by 0.465 points (z = 4.10, p < 0.001), and in 2023 by 0.394 points (z = 2.21, p = 0.027). Thus, unlike the mathematics gradients, the parental-investment gradients do display a statistically significant regional difference, with the Balkans showing the steeper socioeconomic gradient in both survey rounds. At the country level, Bulgaria recorded the largest gradient in both years, at 4.069 in 2019 and 4.003 in 2023. By contrast, the Czech Republic moved from a slightly negative estimate in 2019 to a near-zero positive estimate in 2023 (0.027), while Montenegro showed one of the more notable increases, from 1.477 to 2.366.
+Table 9: Gradient of Parental Investment Index on Parental Education Binary, by country, 2019 and 2023
+  
+ 
+Figures 8 and 9 depict the PI Index gradient geographically, with green being the lowest and red the highest. In 2019, Bulgaria is the only red outlier in the highest bin (>3.2), while the rest of Europe falls within the lower two green bins. This distribution looks more dispersed in 2023, with Bulgaria and Albania being in the highest bins (red and orange) and Montenegro in the yellow tier. The majority of the Western and Central European countries lie in the two lower green bins. The Czech Republic, Germany, and Poland record the smallest gradients.
+Figure 8: Map of Parental Investment Index Gradient by Country, 2019. Green: Lowest, Red: Highest
+  
+
+Figure 9: Map of Parental Investment Index Gradient by Country, 2023. Green: Lowest, Red: Highest
+  
+
+Correlation Between Math and PI 
+At the country level, we examine whether education systems with a steeper parental-education gradient in mathematics also tend to display a steeper parental-education gradient in parental investment. To do so, we first estimate, separately for each country and year, a survey-weighted regression of mathematics achievement on the parental education binary indicator. For mathematics, this regression is estimated for each of the five plausible values and the resulting coefficients are then combined using Rubin’s rules to obtain a pooled country-year gradient, denoted ​. We then estimate, for the same country-year cells, a survey-weighted regression of the parental investment index on the parental education binary, yielding a second coefficient, ​​. We finally compute the cross-country correlation between these two sets of coefficients within each year, . This correlation therefore captures whether countries with larger socioeconomic gradients in mathematics also tend to exhibit larger socioeconomic gradients in parental investment.
+First, we examine the association between parental investment and students’ mathematics achievement at the student level using survey-weighted correlations estimated separately by year. Across both years and both operationalisations of parental investment, the correlations are positive but modest in size. Using the percentile-based maths outcome, the correlation between the PI index and maths percentiles is (r = 0.153) in 2019 and (r = 0.143) in 2023; when using the PI_math subscale, the corresponding correlations are (r = 0.119) in 2019 and (r = 0.115) in 2023. Using the raw maths plausible values combined across the five plausible values yields very similar patterns: (r = 0.157) and (r = 0.145) for PI_index in 2019 and 2023, respectively, and (r = 0.123) and (r = 0.118) for PI_math. All of these correlations are estimated on large samples of approximately 90,000 students per year (90,861 in 2019 and 90,212 in 2023) and are highly statistically significant. However, their magnitude remains modest, indicating that day-to-day parental investment is only weakly associated with individual students’ mathematics performance.
+Second, we explore the relationship  between the SES gaps in math achievement with the SES gaps in parental education. The correlation coefficient (r) is 0.450 in 2019 for 24 countries and 0.299 in 2023. However, the correlation coefficient for 2023 is not statistically significant, with a p-value of 0.156, likely due to outlying values from Albania and the Czech Republic. 
+Both plots identify Bulgaria as the most extreme point in the upper-right corner of the scatterplot — the country with simultaneously the highest math gradient and the highest PI gradient in both years. Bulgaria's position far from the cluster of other countries is visible in both figures and clearly exerts leverage on the correlation coefficient. In 2019, Albania also appears in the upper portion of the plot, with a high PI gradient despite a moderate math gradient. Kosovo appeared near the origin in 2019 with a low math gradient and a low PI gradient. The Czech Republic appears close to the x-axis in both years, reflecting its near-zero PI gradient.
+In 2023, the cluster of countries is more compressed along the x-axis (most math gradients fall between roughly 10 and 20), and the scatter of PI gradients is wider. Albania moves upward on the PI axis in 2023, while Montenegro also becomes more visible as a point with a high PI gradient relative to its math gradient. The weaker 2023 correlation relative to 2019 is consistent with this more dispersed pattern.
+Taken together, the evidence suggests that parental education and parental investment relate to mathematics achievement in two distinct but complementary ways. At the student level, higher parental investment is consistently associated with better math outcomes, but the correlations are modest, indicating that PI explains only a limited share of within-country variation in achievement. At the country level, however, systems where parental education has a stronger gradient in mathematics also tend to show stronger gradients in parental investment (particularly in 2019) highlighting that structural inequalities in both parental resources and engagement tend to reinforce each other. The fact that the size of the parent-education gradient in both math and PI does not change significantly between 2019 and 2023, despite some movement in the point estimates, suggests that these inequalities are persistent features of the education systems rather than short-term fluctuations.
+Figure 10: Scatter Plot showing Correlation between Math Gradients and PI Gradients, 2019, (r=0.450, p=0.0273, n = 24)  
+Figure 11: Scatter Plot showing Correlation between Math Gradients and PI Gradients, 2023, (r=0.299, p=0.1562, n = 24)
+  
+
+
+
+Panel Data Analysis[ah]
+The panel data retrieved from TIMSS 2023 Longitudinal study provides us with a true panel. Starting in Grade 4 students were assessed, the same students were assessed again then in Grade 5. For the purposes of our study, we have included six of the nine participating countries, which have been grouped as follows: 1. European: Sweden, Italy and Slovenia, and 2. Balkans: Kosovo, North Macedonia and Montenegro. We employed a two-way fixed effects model (country-year), with an outcome variable of Math Score (ASMMAT01). We ran six different models to assess the effect of parental investment, each model has been run on the Balkan Countries, the European Countries, and all countries together. The variables of interest used were: Parental Investment (Binary), Parental Education (Binary), an interaction term of Parental Investment (Binary) and Parental Education (Binary), Parental Investment Reading Activities (1-8 Index), Parental Investment Numeracy Activities (1-8 Index), and Low Education (Parental Education Binary Reversed). 
+
+
+Model 1:
+Yist​=α+β1​PI_binaryis​​+γc​+γt​+εist​
+Model 2:
+Yist​=α+β1​PI_binaryis​+β2​Parent_edu_binaryis​+γc​+γt​+εist​  
+Model 1 shows us the baseline Parental Investment effects, showing small but significant positive effects on math scores in the full panel (3.4) and Balkans (9.3), but is insignificant in the European subsample, indicating that even before further controls that there is regional variation. The second model includes the Parental Education variable, which more than doubles the Parental Investment coefficient in the full panel (8.2), likely due to omitted variable bias affecting Model 1. In Model 2 we see Europe jump to a positive effect of Parental Investment and become significant. Nonetheless, it should be noted that the R^2 is quite small, even after adding Parental Education, indicating the limited ability of this model to fully explain math score.
+Overall, Model 2 indicates that when parents engage in high levels of Parental Investment, we see a positive increase in math scores. Notably, this effect is larger in the Balkans than in Europe, suggesting parents' engagement in parental investment activities with their children has more influence on outcomes in the Balkans than in Europe. 
+
+
+Model 3:
+Yist​=α+β1​PI_binaryis​+β2​Parent_edu_binaryis​+β3(​PI_binaryis​*​Parent_edu_binaryis)​+γc​+γt​+εist​
+Model 4:
+Yist​=α+β1​PI_binaryis​+β2​Parent_edu_binaryis​+β3​Is_Balkanis​+β4​(PI_binaryis​×Parent_edu_binaryis​)+β5​(PI_binaryis​×Is_Balkanis)​+β6​(Parent_edu_binaryis​×Is_Balkanis)​+β7(​PI_binaryis​×Parent_edu_binaryis​×Is_Balkanis)​+γc​+γt​+εist​  
+Model 3 includes an interaction term between Parental Investment and Parental Education, with the aim of investigating the additional effect of high Parental Investment from Highly Educated Parents. This is in line with our hypothesis regarding the Matthew effect, which can see reflected in the European submodel. We find in Europe that there is a positive 10.6 effect suggesting the additional benefit of highly educated parents engaging in parental investment activities is significant. In the Balkans we see a different story, where the coefficient has become negative and insignificant, which further brings into question if parental investment acts the same in Balkans as in Europe.
+Model 4 includes a triple interaction of Parental Investment, Parental Education and a Balkan Binary. The negative coefficient of -14.468 indicates that in the Balkans, the additional boost we see from combination of Parental Investment and Parental Education is essentially negated by the being in the Balkans. This supports the suspicion that the positive cumulative relationship we see between Parental Investment and Parental Education in Europe, is much weaker in the Balkans. 
+
+
+Model 5: 
+Yist​=α+β1​Parent_edu_binaryis​+β2​PI_readis​+β3​PI_mathis​+γc​+γt​+εist​
+Model 6: 
+Yist​=α+β1​Parent_eduis​+β2​PI_readis​+β3​PI_mathis​+β4​(Parent_eduis​×PI_readis​)+β5​(Parent_eduis​×PI_mathis​)+γc​+γt​+εist​  
+
+
+When we break down Parental Investment into its Literacy and Numeracy activities, an asymmetry in the results is revealed. In Model 5, on the full panel we see Literacy out performing Numeracy at a near 4:1 ratio, this Literacy dominance is consistent in all regions, but at a much lesser 2:1 effect in the Balkans. In the European subsample reading remains positive, but numeracy turns negative and is non significant. 
+Model 6 allows us to see the interactions between both Literacy and Numeracy activities with Parental Education. The regional subsamples show that in the Balkans that the interaction with Parental Education and Parental Investment is negative (-1.915), which could suggest that Literacy activities may have a compensatory effect for children of low educated parents. This would be in line with our theoretical framework that posits in the case of scarce resources, the marginal benefit of other activities may be more pronounced than in resource rich contexts. Interestingly, the European subsample exhibits the opposite phenomenon, with a positive coefficient (+1.655) suggesting a more cumulative relationship. These findings support both of our competing hypotheses (H4A and H4B), mediated by regional differences. In the Balkans we find evidence of a Compensatory effect of Parental Investment on children from low educated parents, in line with Cunha and Heckman’s idea of dynamic complementarity. Whereas in Europe we see evidence of the Matthew effect, where highly educated parents see greater marginal returns on parental investment. 
+
+
+________________
+References
+
+
+Almond, D., & Currie, J. (2011). Human capital development before age five. In Handbook of labor economics (Vol. 4, pp. 1315–1486). Elsevier.
+Almond, D., Currie, J., & Duque, V. (2018). Childhood circumstances and adult outcomes: Act II. Journal of Economic Literature, 56(4), 1360–1446.
+Anders, Y., Rossbach, H. G., Weinert, S., Ebert, S., Kuger, S., Lehrl, S., & Von Maurice, J. (2012). Home and preschool learning environments and their relations to the development of early numeracy skills. Early Childhood Research Quarterly, 27(2), 231–244.
+Attanasio, O., Cattan, S., Fitzsimons, E., Meghir, C., & Rubio-Codina, M. (2020). Estimating the production function for human capital: Results from a randomized controlled trial in Colombia. American Economic Review, 110(1), 48–85.
+Avitabile, C., Bat-Ochir, I., Berisha, S., Maezawa, C., Shmis, T., Toppeta, A., & Yamashita, Y. (2025). Socioeconomic status gaps in student achievement in Balkan countries: The role of parents and school inputs. World Bank Group Education Working Paper.
+Bakermans-Kranenburg, M. J., van IJzendoorn, M. H., & Bradley, R. H. (2005). Those who have, receive: The Matthew effect in early childhood intervention in the home environment. Review of Educational Research, 75(1), 1–26.
+Becker, G. S. (2002). Human capital. The Concise Encyclopedia of Economics, 2, 1–12.
+Becker, G. S., & Tomes, N. (1976). Child endowments and the quantity and quality of children. Journal of Political Economy, 84(4, Part 2), S143–S162.
+Becker, G. S., & Tomes, N. (1986). Human capital and the rise and fall of families. Journal of Labor Economics, 4(3, Part 2), S1–S39.
+Bosire, J. P. O., Palermo, F., & Napoli, A. R. (2025). Early home literacy and math environment: Cross-domain associations between parental literacy and math beliefs. Frontiers in Psychology, 16, 1649713.
+Broer, M., Bai, Y., & Fonseca, F. (2019). Socioeconomic inequality and educational outcomes: An introduction. In Socioeconomic inequality and educational outcomes: Evidence from twenty years of TIMSS (Vol. 5, pp. 1–6). Springer International Publishing.
+Carneiro, P., & Heckman, J. (2003). Human capital policy. IZA Discussion Paper No. 821.
+Carneiro, P. M., Reis, H., & Toppeta, A. (2025). Parental investments and socio-economic gradients in learning across European countries.
+Carlsson, M., Dahl, G. B., Öckert, B., & Rooth, D. O. (2015). The effect of schooling on cognitive skills. Review of Economics and Statistics, 97(3), 533–547.
+Cunha, F., & Heckman, J. J. (2006). Investing in our young people. Unpublished manuscript, Department of Economics, University of Chicago.
+Cunha, F., & Heckman, J. J. (2007). The technology of skill formation. American Economic Review, 97(2), 31–47.
+Daucourt, M. C., Napoli, A. R., Quinn, J. M., Wood, S. G., & Hart, S. A. (2021). The home math environment and math achievement: A meta-analysis. Psychological Bulletin, 147(6), 565–596.
+Džumhur, Ž., Koršňáková, P., & Meinck, S. (2025). Dinaric perspectives on PIRLS 2021: Prerequisites and conditions for teaching and learning to read (p. 223). Springer Nature.
+Erdem, C., & Kaya, M. (2023). Socioeconomic status and wellbeing as predictors of students' academic achievement: Evidence from a developing country. Journal of Psychologists and Counsellors in Schools, 33(2), 202–220.
+Evans, D., & Field, A. P. (2020). Predictors of mathematical attainment trajectories across the primary-to-secondary education transition: Parental factors and the home environment. Royal Society Open Science, 7(7).
+Fiskerstrand, A., & Hannula, M. S. (2025). Parents' homework help versus children's achievement level and development in mathematics. Research in Mathematics Education, 1–22.
+Hanushek, E. A., Kinne, L., Witthöft, F., & Woessmann, L. (2025). Age and cognitive skills: Use it or lose it. Science Advances, 11(10), eads1560.
+Heckman, J. J. (2007). The economics, technology, and neuroscience of human capability formation. Proceedings of the National Academy of Sciences, 104(33), 13250–13255.
+Hermo, S., Päällysaho, M., Seim, D., & Shapiro, J. M. (2023). Labor market returns and the evolution of cognitive skills: Theory and evidence. The Quarterly Journal of Economics, 137(4), 2309–2361.
+Herrmann, J. (2022). Matthew or compensatory effects? Factors that influence the math literacy of primary-school children in Germany. British Journal of Educational Psychology, 92(1), 47–64.
+Masud, H., Thurasamy, R., & Ahmad, M. S. (2015). Parenting styles and academic achievement of young adolescents: A systematic literature review. Quality & Quantity, 49(6), 2411–2433.
+Merton, R. K. (1968). The Matthew effect in science. Science, 159(3810), 56–63.
+Mullis, I. V. S., Martin, M. O., Foy, P., Kelly, D. L., & Fishbein, B. (2024). Trends in International Mathematics and Science Study (TIMSS) 2023 international results in mathematics and science. International Association for the Evaluation of Educational Achievement (IEA), Boston College.
+OECD. (2019). PISA 2018 results (Volume II): Where all students can succeed. OECD Publishing.
+OECD. (2020). Education in the Western Balkans: Findings from PISA. OECD Publishing.
+OECD. (2022). PISA 2022 results (Volume I): The state of learning and equity in education. OECD Publishing. https://doi.org/10.1787/53f23881-en
+OECD. (2023a). Equity and inclusion in education: Finding strength through diversity. OECD Publishing.
+OECD. (2023b). PISA 2022 technical report. OECD Publishing.
+OECD/UNICEF/World Bank. (2020–2025). Regional and country reports on education and ECE in the Western Balkans, including synthesis and country investment cases (Kosovo, Bosnia & Herzegovina, Serbia).
+Reardon, S. F. (2018). The widening academic achievement gap between the rich and the poor. In Social stratification (pp. 536–550). Routledge.
+Sirin, S. R. (2005). Socioeconomic status and academic achievement: A meta-analytic review of research. Review of Educational Research, 75(3), 412–451.
+Solon, G. (1999). Intergenerational mobility in the labour market. In Handbook of labor economics (Vol. 3, pp. 1761–1800). Elsevier.
+Tamis-LeMonda, C. S., Luo, R., McFadden, K. E., Bandel, E. T., & Vallotton, C. (2019). Early home learning environment predicts children's 5th-grade academic skills. Applied Developmental Science, 23(2), 153–169. https://doi.org/10.1080/10888691.2017.1345634
+UNICEF. (2023). Transforming education in the Western Balkans: PISA 2022 findings from Albania, Kosovo, Montenegro, North Macedonia and Serbia. UNICEF Europe and Central Asia Regional Office.
+Van Lancker, W. (2023). The Matthew effect in early childhood education and care: How family policies may amplify inequalities. In M. Daly et al. (Eds.), The Oxford handbook of family policy over the life course. Oxford Academic. https://doi.org/10.1093/oxfordhb/9780197518151.013.36
+Walberg, H. J., & Tsai, S. L. (1983). Matthew effects in education. American Educational Research Journal, 20(3), 359–373.
+Yigiter, M. S. (2025). The effect of socioeconomic status on academic achievement: A big data study across countries and time with integrative data analysis. PLoS ONE, 20(10), e0335485.
+Appendix
+Appendix 1: TIMSS Country Participation by Year
+  
+
+
+
+
+
+Appendix 2: Sampling Design of TIMSS
+Sampling Design
+ 
+TIMSS employs a stratified two-stage cluster sample design to obtain nationally representative estimates of student achievement. The first level is school sampling using probability proportional to size (PPS) sampling. To enhance precision and representativeness, schools are stratified based on national features such as region, school type, language of instruction and assessment, location, etc. The core characteristics of school sampling in the first stage include important demographic variables, school size, systematic random school sampling, replacement schools pre-assigned during sample selection to compensate for nonparticipation, and replacement schools belonging to the same explicit stratum as the originally sampled school. School sampling is conducted by the TIMSS Sampling Team using the sampling frame prepared by each country’s National Research Coordinator (NRC). For most countries, where precision requirements are fulfilled, approximately 150 schools per grade are sampled, and about 4,000 students are sampled per target grade.
+
+
+The second stage consists of random selection of one or more intact classes in each participating school. The key characteristics include participation of all students in selected classes in the assessment, selection of classes with equal probability within schools, grouping smaller-sized classes into pseudo-classes before sampling, and sampled classes that refuse to participate may not be replaced. Class sampling is conducted by the NRC using standardised within-school sampling software. The cluster-oriented method reduces logical burden while maintaining representativeness.
+
+
+Participation Requirements and Exclusion Criteria 
+TIMSS sets strict exclusion limits or standards to ensure representativeness, participation and international comparability.
+
+
+Exclusion Limits Include
+Countries can exclude:
+·      Students with acute functional disabilities,
+·      Students without sufficient proficiency in the testing language,
+·      Schools in rural and inaccessible regions under specified conditions
+However, to ensure broad national coverage and participation, the total number of excluded students, both at the school level and student level, must not exceed 5% of the national target population. Also, students excluded because they attend very small schools must not exceed 2% of the national target population.
+
+
+Participation Rate Requirements
+For a national sample to be fully acceptable, it must meet the following minimum participation standards:
+* 85% minimum school participation rate (based on originally sampled schools),
+* 95% minimum classroom participation rate,
+* 85% minimum student participation rate,
+* A minimum combined school, classroom, and student participation rate of 75%.
+* Classrooms with less than 50% student participation are deemed not participating.
+Countries that do not meet these criteria may have their data annotated or excluded from international comparisons.
+ 
+Precision Requirements
+National student samples are designed to meet specified precision standards:
+* A standard error no greater than 0.035 standard deviation units for the country’s mean achievement.
+* This corresponds to approximately ±7 score points for the 95% confidence interval of the achievement mean.
+* For student-level percentage estimates, confidence intervals should be approximately ±3.5%.
+Standard errors reflect sampling variance and imputation variance (for achievement estimates) but do not reflect linking error due to item parameter drift or model error.
+Appendix 3: Weighted mean Parental Investment Index,  Literacy and Numeracy by country, 2019 and 2023  
+  
+
+________________
+
+
+Appendix 4: Mean Parental Investment Index, Literacy and Numeracy by Parental Education Group (Upper Secondary or less vs More than Upper Secondary, 2019 and 2023)    
+Appendix 7: Summary and descriptive stats for Math Achievement across countries (2023)
+  
+
+Appendix 8: Summary and descriptive stats for Math Achievement across countries (2019)
+  
+
+Appendix 8: Weighted mean for Parental Investment on Parental Education across countries
+  
+
+  
+
+
+
+Appendix 9: Missing Values Heatmap by country and variable, 2019 and 2023, Dark blue = high missingness, white = low missingness[ai]
+  
+
+Appendix 10: School overlap from 2023 to 2024:
+  
+
+
+
+
+
+[a]I would call this Socio-economic gaps in test scores. Please always use the same term throughout the text. It becomes very confusing for the reader if you switch among many different terms to say the same thing which is SES gaps in test scores
+[b]What do you want to say here? It is not clear
+[c]Please include some citations
+[d]I think it is ok to use chatgpt or other LLM to help yourself for writing, please check what it gives you and please be aware that certain words are very chatgpt specific such as critical, central and so on. In economics, it is rarely the case that a mechanism is central or critical.
+[e]Are performance and achievement the same thing here?
+[f]please see comment above
+[g]Our results will be suggestive and informative for policymakers, but please be careful with the language. We are not doing anything causal here
+[h]Should these hypotheses go after the theoretical framework? It would be more natural for the reader
+[i]Do you explain this later? Are you referring to this Matthew effect https://ideas.repec.org/a/eee/labeco/v77y2022ics0927537121000348.html?
+[j]are you sure this is the right cite?
+[k]Is there any other cite on this?
+[l]Are you sure?
+[m]DO you mean that parents face a resource constraint?
+[n]this is different from parental investment
+[o]This feels very disconnected from the previous discussion. Please incorporate it and link it better to the rest if you want to keep it
+[p]see https://ideas.repec.org/a/eee/labeco/v77y2022ics0927537121000348.html
+[q]Do you have any citations for this?
+[r]Yes I would discuss the hypotheses after theory
+[s]You don't need a box for this I think. It is important to discuss the data clearly
+[t]Please explain that we use this data because the test scores are comparable across countries
+[u]Also need to explain that there are questionnaires administered to students and parents where we have information on parental education and parental investment
+[v]PISA has data on numeracy, literacy and science
+[w]Parental education will be fixed over time so you can not identify the impact of parental education in the panel. Parental investment instead will vary from year to year
+[x]We seem to be missing PE indicators between in 24
+[y]Now, this needs to be fixed so it is coherent with the rest. And Ciro's comment is right, parental education does not change from one year to the other. Hence is a fixed effect.
+[z]Please write down the regression you estimate
+[aa]Why don't you show a bar chart with proportion for each? Are you including the netherlands in here that the share not administered is large?
+[ab]As this is only one column it is easier to read in a Pie chart, is more intuitive to see the proportion on the entire database like this. The bar plot would be harder to understand and the reader would have to spend more time reading it. 
+This Pie chart does not include Netherlands.
+[ac]Can you please remove the gray in the table?
+[ad]This is not very clear, are you describing the table below?
+[ae]weighted by what?
+[af]we should probably remove Albania. I believe it is dampening the regression results. WE only have 6 Balkan Countries, and errors on one of them are likely to cause further issues.
+[ag]Please use the same coef bins in 2019 and 2023, so we can really compare the colors between 2019 and 2023
+[ah]One possible model we discussed estimating at the beginning was the following. We could exploit the longitudinal dimension for the Western Balkans for: (i) curriculum-based learning and (ii) reason-based learning. In particular, we could estimate a two-way fixed-effects model to test some of the results above while removing individual and year fixed effects:
+
+
+learning_{its} = home_resources_{it} + school_resources_{is} + α_i + θ_t + u_{its}
+
+
+If individual fixed effects cannot be included, we could instead include school fixed effects.
+[ai]This could go in the appendix

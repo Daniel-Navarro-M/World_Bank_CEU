@@ -1,0 +1,15 @@
+.RData
+data/IEA_IDBAnalyzer_Setup_v5.0.48.msi
+.Rproj.user
+
+data/raw/*
+!data/raw/.gitkeep
+
+*.RData
+*.rdata
+*.rds
+*.feather
+*.parquet
+*.fst
+
+output/

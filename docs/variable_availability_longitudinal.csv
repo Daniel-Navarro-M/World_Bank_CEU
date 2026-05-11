@@ -1,0 +1,1025 @@
+﻿Question Description,"Variable Name
+(2023)","Variable Name
+(2024)","Question Location
+(2023)","Question Location
+(2024)",Questionnaire Label,Label,2023 Availability,2024 Availability,Both Years
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Read books",ASBH01A,,HQ-01a,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Tell stories",ASBH01B,,HQ-01b,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Sing songs",ASBH01C,,HQ-01c,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Play with alphabet toys (e.g., blocks with letters of the alphabet)",ASBH01D,,HQ-01d,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Talk about things you had done",ASBH01E,,HQ-01e,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Talk about what you had read",ASBH01F,,HQ-01f,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Play word games",ASBH01G,,HQ-01g,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Write letters or words",ASBH01H,,HQ-01h,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Read aloud signs and labels",ASBH01I,,HQ-01i,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Say counting rhymes or sing counting songs",ASBH01J,,HQ-01j,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Play with number toys (e.g., blocks with numbers)",ASBH01K,,HQ-01k,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Count different things",ASBH01L,,HQ-01l,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Play games involving shapes (e.g., shape sorting toys, puzzles)",ASBH01M,,HQ-01m,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Play with building blocks or construction toys",ASBH01N,,HQ-01n,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Play board or card games",ASBH01O,,HQ-01o,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Write numbers",ASBH01P,,HQ-01p,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Draw shapes",ASBH01Q,,HQ-01q,,Home,,✓,,
+"Before your child began primary/elementary school, how often did you or someone else in your home do the following activities with him or her? Measure or weigh things (e.g., when cooking)",ASBH01R,,HQ-01r,,Home,,✓,,
+"Was your child born in <country>?
+",ASBH02A,,HQ-02A,,Home,,✓,,
+"How old was your child when he/she came to <country>?
+",ASBH02B,,HQ-02B,,Home,,✓,,
+What language did your child speak before he/she began school? <language of test>,ASBH03A,,HQ-03a,,Home,,✓,,
+What language did your child speak before he/she began school? <country-specific>,ASBH03B,,HQ-03b,,Home,,✓,,
+What language did your child speak before he/she began school? <country-specific>,ASBH03C,,HQ-03c,,Home,,✓,,
+What language did your child speak before he/she began school? <country-specific>,ASBH03D,,HQ-03d,,Home,,✓,,
+What language did your child speak before he/she began school? <country-specific>,ASBH03E,,HQ-03e,,Home,,✓,,
+What language did your child speak before he/she began school? Other,ASBH03F,,HQ-03f,,Home,,✓,,
+"Did your child attend the following before <first grade>? Early childhood educational program or center for children under age 3
+",ASBH04AA,,HQ-04Aa,,Home,,✓,,
+"Did your child attend the following before <first grade>? Pre-primary educational program for children age 3 or older, including <Kindergarten>",ASBH04AB,,HQ-04Ab,,Home,,✓,,
+"Approximately, how long was your child in these programs altogether?
+",ASBH04B,,HQ-04B,,Home,,✓,,
+How old was your child when he/she began the <first grade> of primary/elementary school?,ASBH05,,HQ-05,,Home,,✓,,
+How well could your child do the following when he/she began the <first grade> of primary/elementary school? Recognize the letters of the alphabet,ASBH06A,,HQ-06a,,Home,,✓,,
+How well could your child do the following when he/she began the <first grade> of primary/elementary school? Read some words,ASBH06B,,HQ-06b,,Home,,✓,,
+How well could your child do the following when he/she began the <first grade> of primary/elementary school? Read sentences,ASBH06C,,HQ-06c,,Home,,✓,,
+How well could your child do the following when he/she began the <first grade> of primary/elementary school? Read a story,ASBH06D,,HQ-06d,,Home,,✓,,
+How well could your child do the following when he/she began the <first grade> of primary/elementary school? Write letters of the alphabet,ASBH06E,,HQ-06e,,Home,,✓,,
+How well could your child do the following when he/she began the <first grade> of primary/elementary school? Write his/her name,ASBH06F,,HQ-06f,,Home,,✓,,
+How well could your child do the following when he/she began the <first grade> of primary/elementary school? Write words other than his/her name,ASBH06G,,HQ-06g,,Home,,✓,,
+Could your child do the following when he/she began the <first grade> of primary/elementary school? Count by himself/herself,ASBH07A,,HQ-07a,,Home,,✓,,
+Could your child do the following when he/she began the <first grade> of primary/elementary school? Recognize written numbers,ASBH07B,,HQ-07b,,Home,,✓,,
+Could your child do the following when he/she began the <first grade> of primary/elementary school? Write numbers,ASBH07C,,HQ-07c,,Home,,✓,,
+Could your child do the following when he/she began the <first grade> of primary/elementary school? Do simple addition,ASBH07D,,HQ-07d,,Home,,✓,,
+Could your child do the following when he/she began the <first grade> of primary/elementary school? Do simple subtraction,ASBH07E,,HQ-07e,,Home,,✓,,
+What do you think of your child's school? My child's school does a good job including me in my child's education,ASBH08A,ASBLH01A,HQ-08a,HQ-01a,Home,,✓,✓,✓
+What do you think of your child's school? My child's school provides a safe environment,ASBH08B,ASBLH01B,HQ-08b,HQ-01b,Home,,✓,✓,✓
+What do you think of your child's school? My child's school cares about my child's progress in school,ASBH08C,ASBLH01C,HQ-08c,HQ-01c,Home,,✓,✓,✓
+What do you think of your child's school? My child's school does a good job informing me of his/her progress,ASBH08D,ASBLH01D,HQ-08d,HQ-01d,Home,,✓,✓,✓
+What do you think of your child's school? My child's school promotes high academic standards,ASBH08E,ASBLH01E,HQ-08e,HQ-01e,Home,,✓,✓,✓
+What do you think of your child's school? My child's school does a good job in helping him/her become better in reading,ASBH08F,ASBLH01F,HQ-08f,HQ-01f,Home,,✓,✓,✓
+What do you think of your child's school? My child's school does a good job in helping him/her become better in mathematics,ASBH08G,ASBLH01G,HQ-08g,HQ-01g,Home,,✓,✓,✓
+What do you think of your child's school? My child's school does a good job in helping him/her become better in science,ASBH08H,ASBLH01H,HQ-08h,HQ-01h,Home,,✓,✓,✓
+"How often do you or someone else in your home do these things with your child? Discuss environmental problems (e.g., <climate change, endangered animals>)",ASBH09A,ASBLH07A,HQ-09a,HQ-07a,Home,,✓,✓,✓
+"How often do you or someone else in your home do these things with your child? Read or watch information about environmental problems (e.g., <climate change, endangered animals>)",ASBH09B,ASBLH07B,HQ-09b,HQ-07b,Home,,✓,✓,✓
+"How often do you or someone else in your home do these things with your child? Show him/her how to use less resources (e.g., <water, energy>) to help the natural environment",ASBH09C,ASBLH07C,HQ-09c,HQ-07c,Home,,✓,✓,✓
+"How often do you or someone else in your home do these things with your child? Spend time in nature (e.g., <forests, parks, deserts>)",ASBH09D,ASBLH07D,HQ-09d,HQ-07d,Home,,✓,✓,✓
+How often do you or someone else in your home do these things with your child? Encourage him/her to take action to protect the natural environment,ASBH09E,ASBLH07E,HQ-09e,HQ-07e,Home,,✓,✓,✓
+"About how many books are there in your home? (Do not count ebooks, magazines, newspapers, or children's books.)",ASBH10,ASBLH08,HQ-10,HQ-08,Home,,✓,✓,✓
+"About how many children's books are there in your home? (Do not count children's ebooks, magazines, or school books.)",ASBH11,ASBLH09,HQ-11,HQ-09,Home,,✓,✓,✓
+Do you have any of these digital resources in your home? A computer or laptop,ASBH12A,ASBLH10A,HQ-12a,HQ-10a,Home,,✓,✓,✓
+Do you have any of these digital resources in your home? A tablet or e-reader,ASBH12B,ASBLH10B,HQ-12b,HQ-10b,Home,,✓,✓,✓
+Do you have any of these digital resources in your home? Reliable internet access,ASBH12C,ASBLH10C,HQ-12c,HQ-10c,Home,,✓,✓,✓
+Were the child’s <parents/guardians> born in <country>? <Parent/Guardian A>,ASBH13A,,HQ-13A,,Home,,✓,,
+Were the child’s <parents/guardians> born in <country>? <Parent/Guardian B>,ASBH13B,,HQ-13B,,Home,,✓,,
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> <language of test>,ASBH14AA,ASBLH11AA,HQ-14Aa,HQ-11Aa,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> <language of test>,ASBH14AB,ASBLH11AB,HQ-14Ab,HQ-11Ab,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> <country-specific>,ASBH14BA,ASBLH11BA,HQ-14Ba,HQ-11Ba,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> <country-specific>,ASBH14BB,ASBLH11BB,HQ-14Bb,HQ-11Bb,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> <country-specific>,ASBH14CA,ASBLH11CA,HQ-14Ca,HQ-11Ca,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> <country-specific>,ASBH14CB,ASBLH11CB,HQ-14Cb,HQ-11Cb,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> <country-specific>,ASBH14DA,ASBLH11DA,HQ-14Da,HQ-11Da,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> <country-specific>,ASBH14DB,ASBLH11DB,HQ-14Db,HQ-11Db,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> <country-specific>,ASBH14EA,ASBLH11EA,HQ-14Ea,HQ-11Ea,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> <country-specific>,ASBH14EB,ASBLH11EB,HQ-14Eb,HQ-11Eb,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> Other,ASBH14FA,ASBLH11FA,HQ-14Fa,HQ-11Fa,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> Other,ASBH14FB,ASBLH11FB,HQ-14Fb,HQ-11Fb,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> Not applicable,ASBH14GA,ASBLH11GA,HQ-14Ga,HQ-11Ga,Home,,✓,✓,✓
+Do the child’s <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> Not applicable,ASBH14GB,ASBLH11GB,HQ-14Gb,HQ-11Gb,Home,,✓,✓,✓
+How often does your child speak <language of test> at home?,ASBH15,ASBLH12,HQ-15,HQ-12,Home,,✓,✓,✓
+"What is the highest level of education completed by the child’s <parents/guardians>?
+<Parent/Guardian A>",ASBH16A,ASBLH13A,HQ-16a,HQ-13a,Home,,✓,✓,✓
+"What is the highest level of education completed by the child’s <parents/guardians>?
+<Parent/Guardian B>",ASBH16B,ASBLH13B,HQ-16b,HQ-13b,Home,,✓,✓,✓
+How far in his/her education do you expect your child to go?,ASBH17,ASBLH14,HQ-17,HQ-14,Home,,✓,✓,✓
+"What kind of work do the child’s <parents/guardians> do for their main jobs? <Parent/Guardian A>
+",ASBH18A,ASBLH15A,HQ-18a,HQ-15a,Home,,✓,✓,✓
+"What kind of work do the child’s <parents/guardians> do for their main jobs? <Parent/Guardian B>
+",ASBH18B,ASBLH15B,HQ-18b,HQ-15b,Home,,✓,✓,✓
+Do you think your child's learning progress has been negatively impacted by the COVID-19 pandemic?,ASBH19,,HQ-19,,Home,,✓,,
+"Did your child receive a digital device (e.g., laptop, tablet) from his/her school to use for at-home learning during the COVID-19 pandemic?",ASBH20,,HQ-20,,Home,,✓,,
+What do you think of your child's school? My child's school does a good job including me in my child's education,ASBH08A,ASBLH01A,,HQ-08a,Home,,✓,✓,✓
+What do you think of your child's school? My child's school provides a safe environment,ASBH08B,ASBLH01B,,HQ-08b,Home,,✓,✓,✓
+What do you think of your child's school? My child's school cares about my child's progress in school,ASBH08C,ASBLH01C,,HQ-08c,Home,,✓,✓,✓
+What do you think of your child's school? My child's school does a good job informing me of his/her progress,ASBH08D,ASBLH01D,,HQ-08d,Home,,✓,✓,✓
+What do you think of your child's school? My child's school promotes high academic standards,ASBH08E,ASBLH01E,,HQ-08e,Home,,✓,✓,✓
+What do you think of your child's school? My child's school does a good job in helping him/her become better in reading,ASBH08F,ASBLH01F,,HQ-08f,Home,,✓,✓,✓
+What do you think of your child's school? My child's school does a good job in helping him/her become better in mathematics,ASBH08G,ASBLH01G,,HQ-08g,Home,,✓,✓,✓
+What do you think of your child's school? My child's school does a good job in helping him/her become better in science,ASBH08H,ASBLH01H,,HQ-08h,Home,,✓,✓,✓
+Please estimate how many of the parent-teacher meetings scheduled by your child's school that you or someone else in your home have attended over the past school year.,,ASBLH02,,,Home,,,✓,
+How often have you or someone else in your home initiated a meeting with your child's teacher in the past year?,,ASBLH03,,,Home,,,✓,
+"Have you or someone else in your home done the following over the past school year? Helped with organizing school or class events (e.g., field trips, celebrations)",,ASBLH04A,,,Home,,,✓,
+"Have you or someone else in your home done the following over the past school year? Attended a school or class event (e.g., concert, play)",,ASBLH04B,,,Home,,,✓,
+"Have you or someone else in your home done the following over the past school year? Contacted a representative about decision-making at the school (e.g., <elected parent representative, school board>)",,ASBLH04C,,,Home,,,✓,
+Have you or someone else in your home done the following over the past school year? Spoken with other parents about the school,,ASBLH04D,,,Home,,,✓,
+How often have you or someone else in your home done the following with your child over the past school year? Talked about your child's school day,,ASBLH05A,,,Home,,,✓,
+"How often have you or someone else in your home done the following with your child over the past school year? Practiced reading, math, or other skills",,ASBLH05B,,,Home,,,✓,
+"How often have you or someone else in your home done the following with your child over the past school year? Done creative activities (e.g., <crafts, drawings>)",,ASBLH05C,,,Home,,,✓,
+"How often have you or someone else in your home done the following with your child over the past school year? Taken your child to places where they have opportunities to learn (e.g., <museum, library>)",,ASBLH05D,,,Home,,,✓,
+How often have you or someone else in your home done the following when your child is assigned homework? Made sure the homework was completed,,ASBLH06A,,,Home,,,✓,
+How often have you or someone else in your home done the following when your child is assigned homework? Helped your child with his/her homework when needed,,ASBLH06B,,,Home,,,✓,
+"How often do you or someone else in your home do these things with your child? Discuss environmental problems (e.g., <climate change, endangered animals>)",ASBH09A,ASBLH07A,,HQ-09a,Home,,✓,✓,✓
+"How often do you or someone else in your home do these things with your child? Read or watch information about environmental problems (e.g., <climate change, endangered animals>)",ASBH09B,ASBLH07B,,HQ-09b,Home,,✓,✓,✓
+"How often do you or someone else in your home do these things with your child? Show him/her how to use less resources (e.g., <water, energy>) to help the natural environment",ASBH09C,ASBLH07C,,HQ-09c,Home,,✓,✓,✓
+"How often do you or someone else in your home do these things with your child? Spend time in nature (e.g., <forests, parks, deserts>)",ASBH09D,ASBLH07D,,HQ-09d,Home,,✓,✓,✓
+How often do you or someone else in your home do these things with your child? Encourage him/her to take action to protect the natural environment,ASBH09E,ASBLH07E,,HQ-09e,Home,,✓,✓,✓
+"About how many books are there in your home? (Do not count ebooks, magazines, newspapers, or children's books.)",ASBH10,ASBLH08,,HQ-10,Home,,✓,✓,✓
+"About how many children's books are there in your home? (Do not count children's ebooks, magazines, or school books.)",ASBH11,ASBLH09,,HQ-11,Home,,✓,✓,✓
+Do you have any of these digital resources in your home? A computer or laptop,ASBH12A,ASBLH10A,,HQ-12a,Home,,✓,✓,✓
+Do you have any of these digital resources in your home? A tablet or e-reader,ASBH12B,ASBLH10B,,HQ-12b,Home,,✓,✓,✓
+Do you have any of these digital resources in your home? Reliable internet access,ASBH12C,ASBLH10C,,HQ-12c,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> <language of test>,ASBH14AA,ASBLH11AA,,HQ-14Aa,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> <language of test>,ASBH14AB,ASBLH11AB,,HQ-14Ab,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> <country-specific>,ASBH14BA,ASBLH11BA,,HQ-14Ba,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> <country-specific>,ASBH14BB,ASBLH11BB,,HQ-14Bb,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> <country-specific>,ASBH14CA,ASBLH11CA,,HQ-14Ca,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> <country-specific>,ASBH14CB,ASBLH11CB,,HQ-14Cb,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> <country-specific>,ASBH14DA,ASBLH11DA,,HQ-14Da,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> <country-specific>,ASBH14DB,ASBLH11DB,,HQ-14Db,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> <country-specific>,ASBH14EA,ASBLH11EA,,HQ-14Ea,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> <country-specific>,ASBH14EB,ASBLH11EB,,HQ-14Eb,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> Other,ASBH14FA,ASBLH11FA,,HQ-14Fa,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> Other,ASBH14FB,ASBLH11FB,,HQ-14Fb,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian A> Not applicable,ASBH14GA,ASBLH11GA,,HQ-14Ga,Home,,✓,✓,✓
+Do the child's <parents/guardians> talk with the child in the following languages? <Parent/Guardian B> Not applicable,ASBH14GB,ASBLH11GB,,HQ-14Gb,Home,,✓,✓,✓
+How often does your child speak <language of test> at home?,ASBH15,ASBLH12,,HQ-15,Home,,✓,✓,✓
+What is the highest level of education completed by the child's <parents/guardians>? <Parent/Guardian A>,ASBH16A,ASBLH13A,,HQ-16a,Home,,✓,✓,✓
+What is the highest level of education completed by the child's <parents/guardians>? <Parent/Guardian B>,ASBH16B,ASBLH13B,,HQ-16b,Home,,✓,✓,✓
+How far in his/her education do you expect your child to go?,ASBH17,ASBLH14,,HQ-17,Home,,✓,✓,✓
+What kind of work do the child's <parents/guardians> do for their main jobs? <Parent/Guardian A>,ASBH18A,ASBLH15A,,HQ-18a,Home,,✓,✓,✓
+What kind of work do the child's <parents/guardians> do for their main jobs? <Parent/Guardian B>,ASBH18B,ASBLH15B,,HQ-18b,Home,,✓,✓,✓
+"What is the total enrollment of students in your school as of <first day of month TIMSS testing begins, 2023>?",ACBG01,,ScQ-01,,School,,✓,,
+"What is the total enrollment of <fourth grade> students in your school as of <first day of month TIMSS testing begins, 2023>?",ACBG02,ACBLG01,ScQ-02,ScQ-01,School,,✓,✓,✓
+Approximately what percentage of students in your school have the following backgrounds? Come from economically disadvantaged homes,ACBG03A,ACBLG02A,ScQ-03a,ScQ-02a,School,,✓,✓,✓
+Approximately what percentage of students in your school have the following backgrounds? Come from economically affluent homes,ACBG03B,ACBLG02B,ScQ-03b,ScQ-02b,School,,✓,✓,✓
+Approximately what percentage of students in your school have <language of test> as their native language?,ACBG04,ACBLG03,ScQ-04,ScQ-03,School,,✓,✓,✓
+"How many people live in the city, town, or area where your school is located?",ACBG05A,,ScQ-05A,,School,,✓,,
+Which best describes the immediate area in which your school is located?,ACBG05B,,ScQ-05B,,School,,✓,,
+For the <fourth grade> students in your school: How many days per year is your school open for instruction?,ACBG06A,ACBLG04A,ScQ-06A,ScQ-04A,School,,✓,✓,✓
+"For the <fourth grade> students in your school: What is the total instructional time, excluding breaks, in a typical day? (minutes)",ACBG06B,ACBLG04B,ScQ-06B,ScQ-04B,School,,✓,✓,✓
+"For the <fourth grade> students in your school: In one calendar week, how many days is the school open for instruction?",ACBG06C,ACBLG04C,ScQ-06C,ScQ-04C,School,,✓,✓,✓
+How many computers (including tablets) does your school have for use by <fourth grade> students?,ACBG07,ACBLG05,ScQ-07,ScQ-05,School,,✓,✓,✓
+Does your school have a science laboratory that can be used by <fourth grade> students?,ACBG08,ACBLG07,ScQ-08,ScQ-07,School,,✓,✓,✓
+"Does your school use an online learning management system to support learning (e.g., teacher-student communication, management of grades, student access to course materials)?",ACBG09,ACBLG08,ScQ-09,ScQ-08,School,,✓,✓,✓
+Do students in your school have access to these resources? A library or media center,ACBG10A,,ScQ-10A,,School,,✓,,
+Do students in your school have access to these resources? High speed internet,ACBG10B,,ScQ-10B,,School,,✓,,
+"How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Instructional materials (e.g., textbooks)",ACBG11AA,ACBLG10AA,ScQ-11Aa,ScQ-10Aa,School,,✓,✓,✓
+"How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Supplies (e.g., papers, pencils, materials)",ACBG11AB,ACBLG10AB,ScQ-11Ab,ScQ-10Ab,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: School buildings and grounds,ACBG11AC,ACBLG10AC,ScQ-11Ac,ScQ-10Ac,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Heating/cooling and lighting systems,ACBG11AD,ACBLG10AD,ScQ-11Ad,ScQ-10Ad,School,,✓,✓,✓
+"How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Instructional space (e.g., classrooms)",ACBG11AE,ACBLG10AE,ScQ-11Ae,ScQ-10Ae,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Technologically competent staff,ACBG11AF,ACBLG10AF,ScQ-11Af,ScQ-10Af,School,,✓,✓,✓
+"How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Audio-visual resources for delivery of instruction (e.g., interactive white boards, digital projectors)",ACBG11AG,ACBLG10AG,ScQ-11Ag,ScQ-10Ag,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Digital devices for student use,ACBG11AH,ACBLG10AH,ScQ-11Ah,ScQ-10Ah,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Resources for students with disabilities,ACBG11AI,ACBLG10AI,ScQ-11Ai,ScQ-10Ai,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Mathematics Instruction: Teachers with a specialization in mathematics,ACBG11BA,ACBLG10BA,ScQ-11Ba,ScQ-10Ba,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Mathematics Instruction: Computer software/applications for mathematics instruction,ACBG11BB,ACBLG10BB,ScQ-11Bb,ScQ-10Bb,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Mathematics Instruction: Library resources relevant to mathematics instruction,ACBG11BC,ACBLG10BC,ScQ-11Bc,ScQ-10Bc,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Mathematics Instruction: Calculators for mathematics instruction,ACBG11BD,ACBLG10BD,ScQ-11Bd,ScQ-10Bd,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Mathematics Instruction: Concrete objects or materials to help students understand quantities or procedures,ACBG11BE,ACBLG10BE,ScQ-11Be,ScQ-10Be,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Science Instruction: Teachers with a specialization in science,ACBG11CA,ACBLG10CA,ScQ-11Ca,ScQ-10Ca,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Science Instruction: Computer software/applications for science instruction,ACBG11CB,ACBLG10CB,ScQ-11Cb,ScQ-11Cb,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Science Instruction: Library resources relevant to science instruction,ACBG11CC,ACBLG10CC,ScQ-11Cc,ScQ-11Cc,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Science Instruction: Science equipment and materials for experiments,ACBG11CD,ACBLG10CD,ScQ-11Cd,ScQ-11Cd,School,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' understanding of the school's curricular goals,ACBG12A,ACBLG11A,ScQ-12a,ScQ-11a,School,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' degree of success in implementing the school's curriculum,ACBG12B,ACBLG11B,ScQ-12b,ScQ-11b,School,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' expectations for student achievement,ACBG12C,ACBLG11C,ScQ-12c,ScQ-11c,School,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' ability to inspire students,ACBG12D,ACBLG11D,ScQ-12d,ScQ-11d,School,,✓,✓,✓
+How would you characterize each of the following within your school? Parental involvement in school activities,ACBG12E,ACBLG11E,ScQ-12e,ScQ-11e,School,,✓,✓,✓
+How would you characterize each of the following within your school? Parental commitment to ensure that students are ready to learn,ACBG12F,ACBLG11F,ScQ-12f,ScQ-11f,School,,✓,✓,✓
+How would you characterize each of the following within your school? Parental expectations for student achievement,ACBG12G,ACBLG11G,ScQ-12g,ScQ-11g,School,,✓,✓,✓
+How would you characterize each of the following within your school? Parental support for student achievement,ACBG12H,ACBLG11H,ScQ-12h,ScQ-11h,School,,✓,✓,✓
+How would you characterize each of the following within your school? Students' desire to do well in school,ACBG12I,ACBLG11I,ScQ-12i,ScQ-11i,School,,✓,✓,✓
+How would you characterize each of the following within your school? Students' ability to reach school's academic goals,ACBG12J,ACBLG11J,ScQ-12j,ScQ-11j,School,,✓,✓,✓
+How would you characterize each of the following within your school? Students’ respect for classmates who excel academically,ACBG12K,ACBLG11K,ScQ-12k,ScQ-11k,School,,✓,✓,✓
+How much do you agree with these statements? This school has a shared vision about its role in supporting environmental sustainability,ACBG13A,ACBLG15A,ScQ-13a,ScQ-15a,School,,✓,✓,✓
+How much do you agree with these statements? This school regularly reviews its practices to make them more environmentally sustainable,ACBG13B,ACBLG15B,ScQ-13b,ScQ-15b,School,,✓,✓,✓
+How much do you agree with these statements? There is a schoolwide approach to teaching environmental sustainability to students,ACBG13C,ACBLG15C,ScQ-13c,ScQ-15c,School,,✓,✓,✓
+How much do you agree with these statements? This school teaches students to appreciate the natural environment,ACBG13D,ACBLG15D,ScQ-13d,ScQ-15d,School,,✓,✓,✓
+How much do you agree with these statements? This school teaches students how to take action to protect the natural environment,ACBG13E,ACBLG15E,ScQ-13e,ScQ-15e,School,,✓,✓,✓
+How much do you agree with these statements? This school encourages teachers to learn about teaching environmental sustainability,ACBG13F,ACBLG15F,ScQ-13f,ScQ-15f,School,,✓,✓,✓
+How much do you agree with these statements? This school promotes environmental sustainability within the community,ACBG13G,ACBLG15G,ScQ-13g,ScQ-15g,School,,✓,✓,✓
+How much do you agree with these statements? This school promotes participation in networks or projects related to environmental sustainability,ACBG13H,ACBLG15H,ScQ-13h,ScQ-15h,School,,✓,✓,✓
+To what degree is each of the following a problem among <fourth grade> students in your school? Arriving late at school,ACBG14A,,ScQ-14a,,School,,✓,,
+"To what degree is each of the following a problem among <fourth grade> students in your school? Absenteeism (i.e., unjustified absences)",ACBG14B,,ScQ-14b,,School,,✓,,
+To what degree is each of the following a problem among <fourth grade> students in your school? Classroom disturbance,ACBG14C,,ScQ-14c,,School,,✓,,
+To what degree is each of the following a problem among <fourth grade> students in your school? Cheating,ACBG14D,,ScQ-14d,,School,,✓,,
+To what degree is each of the following a problem among <fourth grade> students in your school? Profanity,ACBG14E,,ScQ-14e,,School,,✓,,
+To what degree is each of the following a problem among <fourth grade> students in your school? Vandalism,ACBG14F,,ScQ-14f,,School,,✓,,
+To what degree is each of the following a problem among <fourth grade> students in your school? Theft,ACBG14G,,ScQ-14g,,School,,✓,,
+"To what degree is each of the following a problem among <fourth grade> students in your school? Intimidation or verbal abuse among students (including texting, emailing, etc.)",ACBG14H,,ScQ-14h,,School,,✓,,
+To what degree is each of the following a problem among <fourth grade> students in your school? Physical fights among students,ACBG14I,,ScQ-14i,,School,,✓,,
+"To what degree is each of the following a problem among <fourth grade> students in your school? Intimidation or verbal abuse of teachers or staff (including texting, emailing, etc.)",ACBG14J,,ScQ-14j,,School,,✓,,
+To what degree is each of the following a problem among teachers in your school? Arriving late or leaving early,ACBG15A,,ScQ-15a,,School,,✓,,
+To what degree is each of the following a problem among teachers in your school? Absenteeism,ACBG15B,,ScQ-15b,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Recognize most of the letters of the alphabet,ACBG16A,,ScQ-16a,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Read some words,ACBG16B,,ScQ-16b,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Read sentences,ACBG16C,,ScQ-16c,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Write letters of the alphabet,ACBG16D,,ScQ-16d,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Write their names,ACBG16E,,ScQ-16e,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school?  Write words other than their names,ACBG16F,,ScQ-16f,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Count up to 100 or higher,ACBG16G,,ScQ-16g,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Recognize written numbers from 1-10,ACBG16H,,ScQ-16h,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Recognize written numbers higher than 10,ACBG16I,,ScQ-16i,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Write numbers from 1-10,ACBG16J,,ScQ-16j,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Do simple addition,ACBG16K,,ScQ-16k,,School,,✓,,
+About how many of the students in your school can do the following when they begin the <first grade> of primary/elementary school? Do simple subtraction,ACBG16L,,ScQ-16l,,School,,✓,,
+"By the end of this school year, how many years will you have been a principal altogether?",ACBG17,ACBLG16,ScQ-17,ScQ-16,School,,✓,✓,✓
+"By the end of this school year, how many years will you have been a principal at this school?",ACBG18,ACBLG17,ScQ-18,ScQ-17,School,,✓,✓,✓
+What is the highest level of formal education you have completed?,ACBG19,ACBLG18,ScQ-19,ScQ-18,School,,✓,✓,✓
+"Do you hold the following qualifications or credentials in educational leadership? <Certificate or license>
+",ACBG20A,ACBLG19A,ScQ-20a,ScQ-19a,School,,✓,✓,✓
+Do you hold the following qualifications or credentials in educational leadership? <Master’s or equivalent level—ISCED Level 7>,ACBG20B,ACBLG19B,ScQ-20b,ScQ-19b,School,,✓,✓,✓
+Do you hold the following qualifications or credentials in educational leadership?  <Doctor or equivalent level—ISCED Level 8>,ACBG20C,ACBLG19C,ScQ-20c,ScQ-19c,School,,✓,✓,✓
+For how long was your school fully closed for in-person instruction because of the COVID-19 pandemic? <2019 - 2020> school year,ACBG21A,,ScQ-21a,,School,,✓,,
+For how long was your school fully closed for in-person instruction because of the COVID-19 pandemic? <2020 - 2021> school year,ACBG21B,,ScQ-21b,,School,,✓,,
+For how long was your school fully closed for in-person instruction because of the COVID-19 pandemic? <2021 - 2022> school year,ACBG21C,,ScQ-21c,,School,,✓,,
+For how long was your school fully closed for in-person instruction because of the COVID-19 pandemic? <2022 - 2023> school year,ACBG21D,,ScQ-21d,,School,,✓,,
+"What is the total enrollment of <fifth grade> students in your school as of <first day of month TIMSS testing begins, 2024>?",ACBG02,ACBLG01,ScQ-02,ScQ-01,School,,✓,✓,✓
+Approximately what percentage of students in your school have the following backgrounds? Come from economically disadvantaged homes,ACBG03A,ACBLG02A,ScQ-03a,ScQ-02a,School,,✓,✓,✓
+Approximately what percentage of students in your school have the following backgrounds? Come from economically affluent homes,ACBG03B,ACBLG02B,ScQ-03b,ScQ-02b,School,,✓,✓,✓
+Approximately what percentage of students in your school have <language of test> as their native language?,ACBG04,ACBLG03,ScQ-04,ScQ-03,School,,✓,✓,✓
+For the <fifth grade> students in your school: How many days per year is your school open for instruction?,ACBG06A,ACBLG04A,ScQ-06A,ScQ-04A,School,,✓,✓,✓
+"For the <fifth grade> students in your school: What is the total instructional time, excluding breaks, in a typical day? (minutes)",ACBG06B,ACBLG04B,ScQ-06B,ScQ-04B,School,,✓,✓,✓
+"For the <fifth grade> students in your school: In one calendar week, how many days is the school open for instruction?",ACBG06C,ACBLG04C,ScQ-06C,ScQ-04C,School,,✓,✓,✓
+How many computers (including tablets) does your school have for use by <fifth grade> students?,ACBG07,ACBLG05,ScQ-07,ScQ-05,School,,✓,✓,✓
+What access do <fifth grade> students in your school have to computers or tablets? The school has a physical computer lab where teachers can reserve time during class,,ACBLG06A,,ScQ-06a,School,,,✓,
+What access do <fifth grade> students in your school have to computers or tablets? The school has a physical computer lab that students can use before or after school or during class breaks,,ACBLG06B,,ScQ-06b,School,,,✓,
+What access do <fifth grade> students in your school have to computers or tablets? The school has mobile laptops or tablets that teachers can reserve to use during class,,ACBLG06C,,ScQ-06c,School,,,✓,
+What access do <fifth grade> students in your school have to computers or tablets? The school provides laptops or tablets that students can use for class and take home,,ACBLG06D,,ScQ-06d,School,,,✓,
+Does your school have a science laboratory that can be used by <fifth grade> students?,ACBG08,ACBLG07,ScQ-08,ScQ-07,School,,✓,✓,✓
+"Does your school use an online learning management system to support learning (e.g., teacher-student communication, management of grades, student access to course materials)?",ACBG09,ACBLG08,ScQ-09,ScQ-08,School,,✓,✓,✓
+Do students in your school have access to high speed internet?,,ACBLG09,,ScQ-09,School,,,✓,
+"How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Instructional materials (e.g., textbooks)",ACBG11AA,ACBLG10AA,ScQ-11Aa,ScQ-10Aa,School,,✓,✓,✓
+"How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Supplies (e.g., papers, pencils, materials)",ACBG11AB,ACBLG10AB,ScQ-11Ab,ScQ-10Ab,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: School buildings and grounds,ACBG11AC,ACBLG10AC,ScQ-11Ac,ScQ-10Ac,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Heating/cooling and lighting systems,ACBG11AD,ACBLG10AD,ScQ-11Ad,ScQ-10Ad,School,,✓,✓,✓
+"How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Instructional space (e.g., classrooms)",ACBG11AE,ACBLG10AE,ScQ-11Ae,ScQ-10Ae,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Technologically competent staff,ACBG11AF,ACBLG10AF,ScQ-11Af,ScQ-10Af,School,,✓,✓,✓
+"How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Audio-visual resources for delivery of instruction (e.g., interactive white boards, digital projectors)",ACBG11AG,ACBLG10AG,ScQ-11Ag,ScQ-10Ag,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Digital devices for student use,ACBG11AH,ACBLG10AH,ScQ-11Ah,ScQ-10Ah,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? General School Resources: Resources for students with disabilities,ACBG11AI,ACBLG10AI,ScQ-11Ai,ScQ-10Ai,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Mathematics Instruction: Teachers with a specialization in mathematics,ACBG11BA,ACBLG10BA,ScQ-11Ba,ScQ-10Ba,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Mathematics Instruction: Computer software/applications for mathematics instruction,ACBG11BB,ACBLG10BB,ScQ-11Bb,ScQ-10Bb,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Mathematics Instruction: Library resources relevant to mathematics instruction,ACBG11BC,ACBLG10BC,ScQ-11Bc,ScQ-10Bc,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Mathematics Instruction: Calculators for mathematics instruction,ACBG11BD,ACBLG10BD,ScQ-11Bd,ScQ-10Bd,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Mathematics Instruction: Concrete objects or materials to help students understand quantities or procedures,ACBG11BE,ACBLG10BE,ScQ-11Be,ScQ-10Be,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Science Instruction: Teachers with a specialization in science,ACBG11CA,ACBLG10CA,ScQ-11Ca,ScQ-10Ca,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Science Instruction: Computer software/applications for science instruction,ACBG11CB,ACBLG10CB,ScQ-11Cb,ScQ-11Cb,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Science Instruction: Library resources relevant to science instruction,ACBG11CC,ACBLG10CC,ScQ-11Cc,ScQ-11Cc,School,,✓,✓,✓
+How much is your school's capacity to provide instruction affected by a shortage or inadequacy of the following? Resources for Science Instruction: Science equipment and materials for experiments,ACBG11CD,ACBLG10CD,ScQ-11Cd,ScQ-11Cd,School,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' understanding of the school's curricular goals,ACBG12A,ACBLG11A,ScQ-12a,ScQ-11a,School,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' degree of success in implementing the school's curriculum,ACBG12B,ACBLG11B,ScQ-12b,ScQ-11b,School,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' expectations for student achievement,ACBG12C,ACBLG11C,ScQ-12c,ScQ-11c,School,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' ability to inspire students,ACBG12D,ACBLG11D,ScQ-12d,ScQ-11d,School,,✓,✓,✓
+How would you characterize each of the following within your school? Parental involvement in school activities,ACBG12E,ACBLG11E,ScQ-12e,ScQ-11e,School,,✓,✓,✓
+How would you characterize each of the following within your school? Parental commitment to ensure that students are ready to learn,ACBG12F,ACBLG11F,ScQ-12f,ScQ-11f,School,,✓,✓,✓
+How would you characterize each of the following within your school? Parental expectations for student achievement,ACBG12G,ACBLG11G,ScQ-12g,ScQ-11g,School,,✓,✓,✓
+How would you characterize each of the following within your school? Parental support for student achievement,ACBG12H,ACBLG11H,ScQ-12h,ScQ-11h,School,,✓,✓,✓
+How would you characterize each of the following within your school? Students' desire to do well in school,ACBG12I,ACBLG11I,ScQ-12i,ScQ-11i,School,,✓,✓,✓
+How would you characterize each of the following within your school? Students' ability to reach school's academic goals,ACBG12J,ACBLG11J,ScQ-12j,ScQ-11j,School,,✓,✓,✓
+How would you characterize each of the following within your school? Students' respect for classmates who excel academically,ACBG12K,ACBLG11K,ScQ-12k,ScQ-11k,School,,✓,✓,✓
+"How much do you agree with these statements about mathematics and science education in your school? The school has initiatives to promote student interest in mathematics and science (e.g., student clubs, competitions)",,ACBLG12A,,ScQ-12a,School,,,✓,
+How much do you agree with these statements about mathematics and science education in your school? The school provides special activities in mathematics and science for interested students,,ACBLG12B,,ScQ-12b,School,,,✓,
+How much do you agree with these statements about mathematics and science education in your school? The school emphasizes the importance of studying mathematics and science in the future,,ACBLG12C,,ScQ-12c,School,,,✓,
+"Does your school offer the following? <Remedial> programs in mathematics for <fifth grade> students (e.g., <tutoring, extra classes>)",,ACBLG13A,,ScQ-13a,School,,,✓,
+"Does your school offer the following? <Enrichment> programs in mathematics for <fifth grade> students (e.g., <extra classes, clubs>)",,ACBLG13B,,ScQ-13b,School,,,✓,
+"Does your school offer the following? <Remedial> programs in science for <fifth grade> students (e.g., <tutoring, extra classes>)",,ACBLG13C,,ScQ-13c,School,,,✓,
+"Does your school offer the following? <Enrichment> programs in science for <fifth grade> students (e.g., <extra classes, clubs>)",,ACBLG13D,,ScQ-13d,School,,,✓,
+Does your school offer the following? Additional teachers or support staff in <fifth grade> mathematics classes when needed,,ACBLG13E,,ScQ-13e,School,,,✓,
+Does your school offer the following? Additional teachers or support staff in <fifth grade> science classes when needed,,ACBLG13F,,ScQ-13f,School,,,✓,
+How much do you agree or disagree with these statements about your school? Teachers communicate with each other across grade levels about students and teaching practices,,ACBLG14A,,ScQ-14a,School,,,✓,
+How much do you agree or disagree with these statements about your school? Teachers and staff in this school are open to changes in their practices,,ACBLG14B,,ScQ-14b,School,,,✓,
+How much do you agree or disagree with these statements about your school? The school provides support for teachers who wish to develop new ideas,,ACBLG14C,,ScQ-14c,School,,,✓,
+How much do you agree or disagree with these statements about your school? Teachers and staff in this school regularly engage in creative problem solving,,ACBLG14D,,ScQ-14d,School,,,✓,
+How much do you agree with these statements? This school has a shared vision about its role in supporting environmental sustainability,ACBG13A,ACBLG15A,ScQ-13a,ScQ-15a,School,,✓,✓,✓
+How much do you agree with these statements? This school regularly reviews its practices to make them more environmentally sustainable,ACBG13B,ACBLG15B,ScQ-13b,ScQ-15b,School,,✓,✓,✓
+How much do you agree with these statements? There is a schoolwide approach to teaching environmental sustainability to students,ACBG13C,ACBLG15C,ScQ-13c,ScQ-15c,School,,✓,✓,✓
+How much do you agree with these statements? This school teaches students to appreciate the natural environment,ACBG13D,ACBLG15D,ScQ-13d,ScQ-15d,School,,✓,✓,✓
+How much do you agree with these statements? This school teaches students how to take action to protect the natural environment,ACBG13E,ACBLG15E,ScQ-13e,ScQ-15e,School,,✓,✓,✓
+How much do you agree with these statements? This school encourages teachers to learn about teaching environmental sustainability,ACBG13F,ACBLG15F,ScQ-13f,ScQ-15f,School,,✓,✓,✓
+How much do you agree with these statements? This school promotes environmental sustainability within the community,ACBG13G,ACBLG15G,ScQ-13g,ScQ-15g,School,,✓,✓,✓
+How much do you agree with these statements? This school promotes participation in networks or projects related to environmental sustainability,ACBG13H,ACBLG15H,ScQ-13h,ScQ-15h,School,,✓,✓,✓
+"By the end of this school year, how many years will you have been a principal altogether?",ACBG17,ACBLG16,ScQ-17,ScQ-16,School,,✓,✓,✓
+"By the end of this school year, how many years will you have been a principal at this school?",ACBG18,ACBLG17,ScQ-18,ScQ-17,School,,✓,✓,✓
+What is the highest level of formal education you have completed?,ACBG19,ACBLG18,ScQ-19,ScQ-18,School,,✓,✓,✓
+Do you hold the following qualifications or credentials in educational leadership? <Certificate or license>,ACBG20A,ACBLG19A,ScQ-20a,ScQ-19a,School,,✓,✓,✓
+Do you hold the following qualifications or credentials in educational leadership? <Master’s or equivalent level—ISCED Level 7>,ACBG20B,ACBLG19B,ScQ-20b,ScQ-19b,School,,✓,✓,✓
+Do you hold the following qualifications or credentials in educational leadership?  <Doctor or equivalent level—ISCED Level 8>,ACBG20C,ACBLG19C,ScQ-20c,ScQ-19c,School,,✓,✓,✓
+Which of these describes you?,ASBG01,ASBLG01,SQG-01,SQG-01,Student,,✓,✓,✓
+When were you born? Month,ASBG02A,ASBLG02A,SQG-02a,SQG-02A,Student,,✓,✓,✓
+When were you born? Year,ASBG02B,ASBLG02B,SQG-02b,SQG-02B,Student,,✓,✓,✓
+How often do you speak <language of test> at home?,ASBG03,ASBLG03,SQG-03,SQG-03,Student,,✓,✓,✓
+"About how many books are there in your home? (Do not count magazines, newspapers, or your school books.)",ASBG04,ASBLG04,SQG-04,SQG-04,Student,,✓,✓,✓
+Do you have any of these things at your home? Your own computer or tablet,ASBG05A,ASBLG05A,SQG-05a,SQG-05a,Student,,✓,✓,✓
+Do you have any of these things at your home? A shared computer or tablet you can use,ASBG05B,ASBLG05B,SQG-05b,SQG-05b,Student,,✓,✓,✓
+Do you have any of these things at your home? A smartphone,ASBG05C,ASBLG05C,SQG-05c,SQG-05c,Student,,✓,✓,✓
+Do you have any of these things at your home? Access to the internet,ASBG05D,ASBLG05D,SQG-05d,SQG-05d,Student,,✓,✓,✓
+Do you have any of these things at your home? Study desk/table for your use,ASBG05E,ASBLG05E,SQG-05e,SQG-05e,Student,,✓,✓,✓
+Do you have any of these things at your home? Your own room,ASBG05F,ASBLG05F,SQG-05f,SQG-05f,Student,,✓,✓,✓
+Do you have any of these things at your home? <country-specific indicator of wealth>,ASBG05G,,SQG-05g,,Student,,✓,,
+Do you have any of these things at your home? <country-specific indicator of wealth>,ASBG05H,,SQG-05h,,Student,,✓,,
+Do you have any of these things at your home? <country-specific indicator of wealth>,ASBG05I,,SQG-05i,,Student,,✓,,
+Do you have any of these things at your home? <country-specific indicator of wealth>,ASBG05J,,SQG-05j,,Student,,✓,,
+Were your <parents/guardians> born in <country>? <Parent/Guardian A>,ASBG06A,,SQG-06A,,Student,,✓,,
+Were your <parents/guardians> born in <country>? <Parent/Guardian B>,ASBG06B,,SQG-06B,,Student,,✓,,
+Were you born in <country>?,ASBG07,,SQG-07,,Student,,✓,,
+About how often are you absent from school?,ASBG08,ASBLG06,SQG-08,SQG-06,Student,,✓,✓,✓
+How often do you feel this way when you arrive at school? I feel tired,ASBG09A,ASBLG07A,SQG-09a,SQG-07a,Student,,✓,✓,✓
+How often do you feel this way when you arrive at school? I feel hungry,ASBG09B,ASBLG07B,SQG-09b,SQG-07b,Student,,✓,✓,✓
+"How much do you agree with these statements? I can write and edit text on a computer, tablet, or smartphone",ASBG10A,ASBLG08A,SQG-10a,SQG-08a,Student,,✓,✓,✓
+"How much do you agree with these statements? I can create school presentations using a computer, tablet, or smartphone",ASBG10B,ASBLG08B,SQG-10b,SQG-08b,Student,,✓,✓,✓
+"How much do you agree with these statements? I can create tables, charts, and graphs using a computer, tablet, or smartphone",ASBG10C,ASBLG08C,SQG-10c,SQG-08c,Student,,✓,✓,✓
+How much do you agree with these statements? I can find information that I need online,ASBG10D,ASBLG08D,SQG-10d,SQG-08d,Student,,✓,✓,✓
+How much do you agree with these statements? I can tell if a website is trustworthy,ASBG10E,ASBLG08E,SQG-10e,SQG-08e,Student,,✓,✓,✓
+"How much do you agree with these statements? I can easily do new things on computers, laptops, or smartphones",ASBG10F,ASBLG08F,SQG-10f,SQG-08f,Student,,✓,✓,✓
+"How much do you agree with these statements? I can help my friends or family members with using their computers, laptops, or smartphones",ASBG10G,ASBLG08G,SQG-10g,SQG-08g,Student,,✓,✓,✓
+How much do you agree with these statements? I care about the protection of plants and animals,ASBG11A,ASBLG09A,SQG-11a,SQG-09a,Student,,✓,✓,✓
+How much do you agree with these statements? It makes me sad when nature is destroyed,ASBG11B,ASBLG09B,SQG-11b,SQG-09b,Student,,✓,✓,✓
+How much do you agree with these statements? I enjoy finding out what kinds of plants and animals live in my surrounding area,ASBG11C,ASBLG09C,SQG-11c,SQG-09c,Student,,✓,✓,✓
+"How much do you agree with these statements? I enjoy being in nature (e.g., <forests, parks, deserts>)",ASBG11D,ASBLG09D,SQG-11d,SQG-09d,Student,,✓,✓,✓
+How much do you agree with these statements? Addressing climate change should be a high priority,ASBG11E,ASBLG09E,SQG-11e,SQG-09e,Student,,✓,✓,✓
+"How often do you do these things to help the natural environment? I try to reuse things (e.g., <bags, bottles>)",ASBG12A,ASBLG10A,SQG-12a,SQG-10a,Student,,✓,✓,✓
+"How often do you do these things to help the natural environment? I try to use less resources (e.g., <water, food>)",ASBG12B,ASBLG10B,SQG-12b,SQG-10b,Student,,✓,✓,✓
+"How often do you do these things to help the natural environment? I talk about how to help the environment (e.g., <saving water, picking up trash>)",ASBG12C,ASBLG10C,SQG-12c,SQG-10c,Student,,✓,✓,✓
+"How often do you do these things to help the natural environment? I try to learn about environmental problems (e.g., <climate change, endangered animals>)",ASBG12D,ASBLG10D,SQG-12d,SQG-10d,Student,,✓,✓,✓
+How often do you do these things to help the natural environment? I try to participate in group activities to help the environment,ASBG12E,ASBLG10E,SQG-12e,SQG-10e,Student,,✓,✓,✓
+How often do you do these things to help the natural environment? I tell my friends when they are doing things that harm the environment,ASBG12F,ASBLG10F,SQG-12f,SQG-10f,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. I like being in school,ASBG13A,ASBLG11A,SQG-13a,SQG-11a,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. I feel safe when I am at school,ASBG13B,ASBLG11B,SQG-13b,SQG-11b,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. I feel like I belong at this school,ASBG13C,ASBLG11C,SQG-13c,SQG-11c,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. Teachers at this school care about me,ASBG13D,ASBLG11D,SQG-13d,SQG-11d,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. I am proud to go to this school,ASBG13E,ASBLG11E,SQG-13e,SQG-11e,Student,,✓,✓,✓
+What do you think about your school? I have friends at this school,ASBG13F,ASBLG11F,SQG-13f,SQG-11f,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. Students at this school like me the way I am,ASBG13G,ASBLG11G,SQG-13g,SQG-11g,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Made fun of me or called me names",ASBG14A,ASBLG12A,SQG-14a,SQG-12a,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Left me out of their games or activities",ASBG14B,ASBLG12B,SQG-14b,SQG-12b,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Spread lies about me",ASBG14C,ASBLG12C,SQG-14c,SQG-12c,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Stole something from me",ASBG14D,ASBLG12D,SQG-14d,SQG-12d,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Damaged something of mine on purpose",ASBG14E,ASBLG12E,SQG-14e,SQG-12e,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Hit or hurt me (e.g., shoving, hitting, kicking)",ASBG14F,ASBLG12F,SQG-14f,SQG-12f,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Made me do things I didn’t want to do",ASBG14G,ASBLG12G,SQG-14g,SQG-12g,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Sent me nasty or hurtful messages online",ASBG14H,ASBLG12H,SQG-14h,SQG-12h,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Shared nasty or hurtful things about me online",ASBG14I,ASBLG12I,SQG-14i,SQG-12i,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Shared embarrassing photos of me online",ASBG14J,ASBLG12J,SQG-14j,SQG-12j,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Threatened me",ASBG14K,ASBLG12K,SQG-14k,SQG-12k,Student,,✓,✓,✓
+"In mathematics lessons, how often do you work on problems on your own?
+",ASBM01,ASBLM01,SQMS-01,SQMS-01,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I enjoy learning mathematics,ASBM02A,ASBLM02A,SQMS-02a,SQMS-02a,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I wish I did not have to study mathematics,ASBM02B,,SQMS-02b,,Student,,✓,,
+How much do you agree with these statements about learning mathematics? Mathematics is boring,ASBM02C,,SQMS-02c,,Student,,✓,,
+How much do you agree with these statements about learning mathematics? I learn many interesting things in mathematics,ASBM02D,ASBLM02B,SQMS-02d,SQMS-02b,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I like mathematics,ASBM02E,ASBLM02C,SQMS-02e,SQMS-02c,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I like any schoolwork that involves numbers,ASBM02F,ASBLM02D,SQMS-02f,SQMS-02d,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I like to solve mathematics problems,ASBM02G,ASBLM02E,SQMS-02g,SQMS-02e,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I look forward to mathematics lessons,ASBM02H,ASBLM02F,SQMS-02h,SQMS-02f,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? Mathematics is one of my favorite subjects,ASBM02I,ASBLM02G,SQMS-02i,SQMS-02g,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher makes it clear what we should learn in each lesson,ASBM03A,ASBLM03A,SQMS-03a,SQMS-03a,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher is easy to understand,ASBM03B,ASBLM03B,SQMS-03b,SQMS-03b,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher has clear answers to my questions,ASBM03C,ASBLM03C,SQMS-03c,SQMS-03c,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher is good at explaining mathematics,ASBM03D,ASBLM03D,SQMS-03d,SQMS-03d,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher does a variety of things to help us learn,ASBM03E,ASBLM03E,SQMS-03e,SQMS-03e,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher explains a topic again when we don’t understand,ASBM03F,ASBLM03F,SQMS-03f,SQMS-03f,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher gives me helpful feedback on my work,ASBM03G,ASBLM03G,SQMS-03g,SQMS-03g,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher asks me to show what I have learned,ASBM03H,ASBLM03H,SQMS-03h,SQMS-03h,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher asks me to explain my answers,ASBM03I,ASBLM03I,SQMS-03i,SQMS-03i,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? Students don't listen to what the teacher says,ASBM04A,ASBLM04A,SQMS-04a,SQMS-04a,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? There is too much noise for students to work well,ASBM04B,ASBLM04B,SQMS-04b,SQMS-04b,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? My teacher has to wait a long time for students to be quiet,ASBM04C,ASBLM04C,SQMS-04c,SQMS-04c,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? Students interrupt the teacher,ASBM04D,ASBLM04D,SQMS-04d,SQMS-04d,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? Students do not follow the classroom rules,ASBM04E,ASBLM04E,SQMS-04e,SQMS-04e,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? Other students' behavior makes it hard for me to concentrate,ASBM04F,ASBLM04F,SQMS-04f,SQMS-04f,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? I usually do well in mathematics,ASBM05A,ASBLM05A,SQMS-05a,SQMS-05a,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? Mathematics is harder for me than for many of my classmates,ASBM05B,ASBLM05B,SQMS-05b,SQMS-05b,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? I am just not good at mathematics,ASBM05C,ASBLM05C,SQMS-05c,SQMS-05c,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? Mathematics is easy for me,ASBM05D,ASBLM05D,SQMS-05d,SQMS-05d,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? I am good at working out difficult mathematics problems,ASBM05E,ASBLM05E,SQMS-05e,SQMS-05e,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? Mathematics is harder for me than any other subject,ASBM05F,ASBLM05F,SQMS-05f,SQMS-05f,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? Mathematics makes me confused,ASBM05G,ASBLM05G,SQMS-05g,SQMS-05g,Student,,✓,✓,✓
+"In science lessons, how often does your teacher ask you to conduct science experiments?
+",ASBS06,ASBLS06,SQMS-06,SQMS-06,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? I enjoy learning science,ASBS07A,ASBLS07A,SQMS-07a,SQMS-07a,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? I wish I did not have to study science,ASBS07B,,SQMS-07b,,Student,,✓,,
+How much do you agree with these statements about learning science? Science is boring,ASBS07C,,SQMS-07c,,Student,,✓,,
+How much do you agree with these statements about learning science? I learn many interesting things in science,ASBS07D,ASBLS07B,SQMS-07d,SQMS-07b,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? I like science,ASBS07E,ASBLS07C,SQMS-07e,SQMS-07c,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? I look forward to learning science in school,ASBS07F,ASBLS07D,SQMS-07f,SQMS-07d,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? Science teaches me how things in the world work,ASBS07G,ASBLS07E,SQMS-07g,SQMS-07e,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? I like to do science experiments,ASBS07H,ASBLS07F,SQMS-07h,SQMS-07f,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? Science is one of my favorite subjects,ASBS07I,ASBLS07G,SQMS-07i,SQMS-07g,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher makes it clear what we should learn in each lesson,ASBS08A,ASBLS08A,SQMS-08a,SQMS-08a,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher is easy to understand,ASBS08B,ASBLS08B,SQMS-08b,SQMS-08b,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher has clear answers to my questions,ASBS08C,ASBLS08C,SQMS-08c,SQMS-08c,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher is good at explaining science,ASBS08D,ASBLS08D,SQMS-08d,SQMS-08d,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher does a variety of things to help us learn,ASBS08E,ASBLS08E,SQMS-08e,SQMS-08e,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher explains a topic again when we don’t understand,ASBS08F,ASBLS08F,SQMS-08f,SQMS-08f,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher gives me helpful feedback on my work,ASBS08G,ASBLS08G,SQMS-08g,SQMS-08g,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher asks me to show what I have learned,ASBS08H,ASBLS08H,SQMS-08h,SQMS-08h,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher asks me to explain my answers,ASBS08I,ASBLS08I,SQMS-08i,SQMS-08i,Student,,✓,✓,✓
+How often do these things happen in your science lessons? Students don't listen to what the teacher says,ASBS09A,ASBLS09A,SQMS-09a,SQMS-09a,Student,,✓,✓,✓
+How often do these things happen in your science lessons? There is too much noise for students to work well,ASBS09B,ASBLS09B,SQMS-09b,SQMS-09b,Student,,✓,✓,✓
+How often do these things happen in your science lessons? My teacher has to wait a long time for students to be quiet,ASBS09C,ASBLS09C,SQMS-09c,SQMS-09c,Student,,✓,✓,✓
+How often do these things happen in your science lessons? Students interrupt the teacher,ASBS09D,ASBLS09D,SQMS-09d,SQMS-09d,Student,,✓,✓,✓
+How often do these things happen in your science lessons? Students do not follow the classroom rules,ASBS09E,ASBLS09E,SQMS-09e,SQMS-09e,Student,,✓,✓,✓
+How often do these things happen in your science lessons? Other students' behavior makes it hard for me to concentrate,ASBS09F,ASBLS09F,SQMS-09f,SQMS-09f,Student,,✓,✓,✓
+How much do you agree with these statements about science? I usually do well in science,ASBS10A,ASBLS10A,SQMS-10a,SQMS-10a,Student,,✓,✓,✓
+How much do you agree with these statements about science? Science is harder for me than for many of my classmates,ASBS10B,ASBLS10B,SQMS-10b,SQMS-10b,Student,,✓,✓,✓
+How much do you agree with these statements about science? I am just not good at science,ASBS10C,ASBLS10C,SQMS-10c,SQMS-10c,Student,,✓,✓,✓
+How much do you agree with these statements about science? Science is easy for me,ASBS10D,ASBLS10D,SQMS-10d,SQMS-10d,Student,,✓,✓,✓
+How much do you agree with these statements about science? Science is harder for me than any other subject,ASBS10E,ASBLS10E,SQMS-10e,SQMS-10e,Student,,✓,✓,✓
+How much do you agree with these statements about science? Science makes me confused,ASBS10F,ASBLS10F,SQMS-10f,SQMS-10f,Student,,✓,✓,✓
+Which of these describes you?,ASBG01,ASBLG01,SQG-01,SQG-01,Student,,✓,✓,✓
+When were you born? Month,ASBG02A,ASBLG02A,SQG-02a,SQG-02A,Student,,✓,✓,✓
+When were you born? Year,ASBG02B,ASBLG02B,SQG-02b,SQG-02B,Student,,✓,✓,✓
+How often do you speak <language of test> at home?,ASBG03,ASBLG03,SQG-03,SQG-03,Student,,✓,✓,✓
+"About how many books are there in your home? (Do not count magazines, newspapers, or your school books.)",ASBG04,ASBLG04,SQG-04,SQG-04,Student,,✓,✓,✓
+Do you have any of these things at your home? Your own computer or tablet,ASBG05A,ASBLG05A,SQG-05a,SQG-05a,Student,,✓,✓,✓
+Do you have any of these things at your home? A shared computer or tablet you can use,ASBG05B,ASBLG05B,SQG-05b,SQG-05b,Student,,✓,✓,✓
+Do you have any of these things at your home? A smartphone,ASBG05C,ASBLG05C,SQG-05c,SQG-05c,Student,,✓,✓,✓
+Do you have any of these things at your home? Access to the internet,ASBG05D,ASBLG05D,SQG-05d,SQG-05d,Student,,✓,✓,✓
+Do you have any of these things at your home? Study desk/table for your use,ASBG05E,ASBLG05E,SQG-05e,SQG-05e,Student,,✓,✓,✓
+Do you have any of these things at your home? Your own room,ASBG05F,ASBLG05F,SQG-05f,SQG-05f,Student,,✓,✓,✓
+About how often are you absent from school?,ASBG08,ASBLG06,SQG-08,SQG-06,Student,,✓,✓,✓
+How often do you feel this way when you arrive at school? I feel tired,ASBG09A,ASBLG07A,SQG-09a,SQG-07a,Student,,✓,✓,✓
+How often do you feel this way when you arrive at school? I feel hungry,ASBG09B,ASBLG07B,SQG-09b,SQG-07b,Student,,✓,✓,✓
+"How often do you feel this way when you arrive at school? I feel <unwell> (e.g., headache, stomachache)",,ASBLG07C,,SQG-07c,Student,,,✓,
+How often do you feel this way when you arrive at school? I feel happy,,ASBLG07D,,SQG-07d,Student,,,✓,
+How often do you feel this way when you arrive at school? I feel worried about the school day,,ASBLG07E,,SQG-07e,Student,,,✓,
+"How much do you agree with these statements? I can write and edit text on a computer, tablet, or smartphone",ASBG10A,ASBLG08A,SQG-10a,SQG-08a,Student,,✓,✓,✓
+"How much do you agree with these statements? I can create school presentations using a computer, tablet, or smartphone",ASBG10B,ASBLG08B,SQG-10b,SQG-08b,Student,,✓,✓,✓
+"How much do you agree with these statements? I can create tables, charts, and graphs using a computer, tablet, or smartphone",ASBG10C,ASBLG08C,SQG-10c,SQG-08c,Student,,✓,✓,✓
+How much do you agree with these statements? I can find information that I need online,ASBG10D,ASBLG08D,SQG-10d,SQG-08d,Student,,✓,✓,✓
+How much do you agree with these statements? I can tell if a website is trustworthy,ASBG10E,ASBLG08E,SQG-10e,SQG-08e,Student,,✓,✓,✓
+"How much do you agree with these statements? I can easily do new things on computers, laptops, or smartphones",ASBG10F,ASBLG08F,SQG-10f,SQG-08f,Student,,✓,✓,✓
+"How much do you agree with these statements? I can help my friends or family members with using their computers, laptops, or smartphones",ASBG10G,ASBLG08G,SQG-10g,SQG-08g,Student,,✓,✓,✓
+How much do you agree with these statements? I care about the protection of plants and animals,ASBG11A,ASBLG09A,SQG-11a,SQG-09a,Student,,✓,✓,✓
+How much do you agree with these statements? It makes me sad when nature is destroyed,ASBG11B,ASBLG09B,SQG-11b,SQG-09b,Student,,✓,✓,✓
+How much do you agree with these statements? I enjoy finding out what kinds of plants and animals live in my surrounding area,ASBG11C,ASBLG09C,SQG-11c,SQG-09c,Student,,✓,✓,✓
+"How much do you agree with these statements? I enjoy being in nature (e.g., <forests, parks, deserts>)",ASBG11D,ASBLG09D,SQG-11d,SQG-09d,Student,,✓,✓,✓
+How much do you agree with these statements? Addressing climate change should be a high priority,ASBG11E,ASBLG09E,SQG-11e,SQG-09e,Student,,✓,✓,✓
+"How often do you do these things to help the natural environment? I try to reuse things (e.g., <bags, bottles>)",ASBG12A,ASBLG10A,SQG-12a,SQG-10a,Student,,✓,✓,✓
+"How often do you do these things to help the natural environment? I try to use less resources (e.g., <water, food>)",ASBG12B,ASBLG10B,SQG-12b,SQG-10b,Student,,✓,✓,✓
+"How often do you do these things to help the natural environment? I talk about how to help the environment (e.g., <saving water, picking up trash>)",ASBG12C,ASBLG10C,SQG-12c,SQG-10c,Student,,✓,✓,✓
+"How often do you do these things to help the natural environment? I try to learn about environmental problems (e.g., <climate change, endangered animals>)",ASBG12D,ASBLG10D,SQG-12d,SQG-10d,Student,,✓,✓,✓
+How often do you do these things to help the natural environment? I try to participate in group activities to help the environment,ASBG12E,ASBLG10E,SQG-12e,SQG-10e,Student,,✓,✓,✓
+How often do you do these things to help the natural environment? I tell my friends when they are doing things that harm the environment,ASBG12F,ASBLG10F,SQG-12f,SQG-10f,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. I like being in school,ASBG13A,ASBLG11A,SQG-13a,SQG-11a,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. I feel safe when I am at school,ASBG13B,ASBLG11B,SQG-13b,SQG-11b,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. I feel like I belong at this school,ASBG13C,ASBLG11C,SQG-13c,SQG-11c,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. Teachers at this school care about me,ASBG13D,ASBLG11D,SQG-13d,SQG-11d,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. I am proud to go to this school,ASBG13E,ASBLG11E,SQG-13e,SQG-11e,Student,,✓,✓,✓
+What do you think about your school? I have friends at this school,ASBG13F,ASBLG11F,SQG-13f,SQG-11f,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. Students at this school like me the way I am,ASBG13G,ASBLG11G,SQG-13g,SQG-11g,Student,,✓,✓,✓
+What do you think about your school? Tell how much you agree with these statements. I am satisfied with school,,ASBLG11H,,SQG-11h,Student,,,✓,
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Made fun of me or called me names",ASBG14A,ASBLG12A,SQG-14a,SQG-12a,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Left me out of their games or activities",ASBG14B,ASBLG12B,SQG-14b,SQG-12b,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Spread lies about me",ASBG14C,ASBLG12C,SQG-14c,SQG-12c,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Stole something from me",ASBG14D,ASBLG12D,SQG-14d,SQG-12d,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Damaged something of mine on purpose",ASBG14E,ASBLG12E,SQG-14e,SQG-12e,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Hit or hurt me (e.g., shoving, hitting, kicking)",ASBG14F,ASBLG12F,SQG-14f,SQG-12f,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Made me do things I didn't want to do",ASBG14G,ASBLG12G,SQG-14g,SQG-12g,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Sent me nasty or hurtful messages online",ASBG14H,ASBLG12H,SQG-14h,SQG-12h,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Shared nasty or hurtful things about me online",ASBG14I,ASBLG12I,SQG-14i,SQG-12i,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Shared embarrassing photos of me online",ASBG14J,ASBLG12J,SQG-14j,SQG-12j,Student,,✓,✓,✓
+"During this school year, how often have other students from your school done any of the following things to you in person, through messaging, or through social media? Threatened me",ASBG14K,ASBLG12K,SQG-14k,SQG-12k,Student,,✓,✓,✓
+"In mathematics lessons, how often do you work on problems on your own?",ASBM01,ASBLM01,SQMS-01,SQMS-01,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I enjoy learning mathematics,ASBM02A,ASBLM02A,SQMS-02a,SQMS-02a,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I learn many interesting things in mathematics,ASBM02D,ASBLM02B,SQMS-02d,SQMS-02b,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I like mathematics,ASBM02E,ASBLM02C,SQMS-02e,SQMS-02c,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I like any schoolwork that involves numbers,ASBM02F,ASBLM02D,SQMS-02f,SQMS-02d,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I like to solve mathematics problems,ASBM02G,ASBLM02E,SQMS-02g,SQMS-02e,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? I look forward to mathematics lessons,ASBM02H,ASBLM02F,SQMS-02h,SQMS-02f,Student,,✓,✓,✓
+How much do you agree with these statements about learning mathematics? Mathematics is one of my favorite subjects,ASBM02I,ASBLM02G,SQMS-02i,SQMS-02g,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher makes it clear what we should learn in each lesson,ASBM03A,ASBLM03A,SQMS-03a,SQMS-03a,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher is easy to understand,ASBM03B,ASBLM03B,SQMS-03b,SQMS-03b,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher has clear answers to my questions,ASBM03C,ASBLM03C,SQMS-03c,SQMS-03c,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher is good at explaining mathematics,ASBM03D,ASBLM03D,SQMS-03d,SQMS-03d,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher does a variety of things to help us learn,ASBM03E,ASBLM03E,SQMS-03e,SQMS-03e,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher explains a topic again when we don't understand,ASBM03F,ASBLM03F,SQMS-03f,SQMS-03f,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher gives me helpful feedback on my work,ASBM03G,ASBLM03G,SQMS-03g,SQMS-03g,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher asks me to show what I have learned,ASBM03H,ASBLM03H,SQMS-03h,SQMS-03h,Student,,✓,✓,✓
+How much do you agree with these statements about your mathematics lessons? My teacher asks me to explain my answers,ASBM03I,ASBLM03I,SQMS-03i,SQMS-03i,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? Students don't listen to what the teacher says,ASBM04A,ASBLM04A,SQMS-04a,SQMS-04a,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? There is too much noise for students to work well,ASBM04B,ASBLM04B,SQMS-04b,SQMS-04b,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? My teacher has to wait a long time for students to be quiet,ASBM04C,ASBLM04C,SQMS-04c,SQMS-04c,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? Students interrupt the teacher,ASBM04D,ASBLM04D,SQMS-04d,SQMS-04d,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? Students do not follow the classroom rules,ASBM04E,ASBLM04E,SQMS-04e,SQMS-04e,Student,,✓,✓,✓
+How often do these things happen in your mathematics lessons? Other students' behavior makes it hard for me to concentrate,ASBM04F,ASBLM04F,SQMS-04f,SQMS-04f,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? I usually do well in mathematics,ASBM05A,ASBLM05A,SQMS-05a,SQMS-05a,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? Mathematics is harder for me than for many of my classmates,ASBM05B,ASBLM05B,SQMS-05b,SQMS-05b,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? I am just not good at mathematics,ASBM05C,ASBLM05C,SQMS-05c,SQMS-05c,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? Mathematics is easy for me,ASBM05D,ASBLM05D,SQMS-05d,SQMS-05d,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? I am good at working out difficult mathematics problems,ASBM05E,ASBLM05E,SQMS-05e,SQMS-05e,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? Mathematics is harder for me than any other subject,ASBM05F,ASBLM05F,SQMS-05f,SQMS-05f,Student,,✓,✓,✓
+How much do you agree with these statements about mathematics? Mathematics makes me confused,ASBM05G,ASBLM05G,SQMS-05g,SQMS-05g,Student,,✓,✓,✓
+"In science lessons, how often does your teacher ask you to conduct science experiments?",ASBS06,ASBLS06,SQMS-06,SQMS-06,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? I enjoy learning science,ASBS07A,ASBLS07A,SQMS-07a,SQMS-07a,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? I learn many interesting things in science,ASBS07D,ASBLS07B,SQMS-07d,SQMS-07b,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? I like science,ASBS07E,ASBLS07C,SQMS-07e,SQMS-07c,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? I look forward to learning science in school,ASBS07F,ASBLS07D,SQMS-07f,SQMS-07d,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? Science teaches me how things in the world work,ASBS07G,ASBLS07E,SQMS-07g,SQMS-07e,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? I like to do science experiments,ASBS07H,ASBLS07F,SQMS-07h,SQMS-07f,Student,,✓,✓,✓
+How much do you agree with these statements about learning science? Science is one of my favorite subjects,ASBS07I,ASBLS07G,SQMS-07i,SQMS-07g,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher makes it clear what we should learn in each lesson,ASBS08A,ASBLS08A,SQMS-08a,SQMS-08a,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher is easy to understand,ASBS08B,ASBLS08B,SQMS-08b,SQMS-08b,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher has clear answers to my questions,ASBS08C,ASBLS08C,SQMS-08c,SQMS-08c,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher is good at explaining science,ASBS08D,ASBLS08D,SQMS-08d,SQMS-08d,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher does a variety of things to help us learn,ASBS08E,ASBLS08E,SQMS-08e,SQMS-08e,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher explains a topic again when we don't understand,ASBS08F,ASBLS08F,SQMS-08f,SQMS-08f,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher gives me helpful feedback on my work,ASBS08G,ASBLS08G,SQMS-08g,SQMS-08g,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher asks me to show what I have learned,ASBS08H,ASBLS08H,SQMS-08h,SQMS-08h,Student,,✓,✓,✓
+How much do you agree with these statements about your science lessons? My teacher asks me to explain my answers,ASBS08I,ASBLS08I,SQMS-08i,SQMS-08i,Student,,✓,✓,✓
+How often do these things happen in your science lessons? Students don't listen to what the teacher says,ASBS09A,ASBLS09A,SQMS-09a,SQMS-09a,Student,,✓,✓,✓
+How often do these things happen in your science lessons? There is too much noise for students to work well,ASBS09B,ASBLS09B,SQMS-09b,SQMS-09b,Student,,✓,✓,✓
+How often do these things happen in your science lessons? My teacher has to wait a long time for students to be quiet,ASBS09C,ASBLS09C,SQMS-09c,SQMS-09c,Student,,✓,✓,✓
+How often do these things happen in your science lessons? Students interrupt the teacher,ASBS09D,ASBLS09D,SQMS-09d,SQMS-09d,Student,,✓,✓,✓
+How often do these things happen in your science lessons? Students do not follow the classroom rules,ASBS09E,ASBLS09E,SQMS-09e,SQMS-09e,Student,,✓,✓,✓
+How often do these things happen in your science lessons? Other students' behavior makes it hard for me to concentrate,ASBS09F,ASBLS09F,SQMS-09f,SQMS-09f,Student,,✓,✓,✓
+How much do you agree with these statements about science? I usually do well in science,ASBS10A,ASBLS10A,SQMS-10a,SQMS-10a,Student,,✓,✓,✓
+How much do you agree with these statements about science? Science is harder for me than for many of my classmates,ASBS10B,ASBLS10B,SQMS-10b,SQMS-10b,Student,,✓,✓,✓
+How much do you agree with these statements about science? I am just not good at science,ASBS10C,ASBLS10C,SQMS-10c,SQMS-10c,Student,,✓,✓,✓
+How much do you agree with these statements about science? Science is easy for me,ASBS10D,ASBLS10D,SQMS-10d,SQMS-10d,Student,,✓,✓,✓
+How much do you agree with these statements about science? Science is harder for me than any other subject,ASBS10E,ASBLS10E,SQMS-10e,SQMS-10e,Student,,✓,✓,✓
+How much do you agree with these statements about science? Science makes me confused,ASBS10F,ASBLS10F,SQMS-10f,SQMS-10f,Student,,✓,✓,✓
+How often does your teacher give you homework in the following subjects? Mathematics,,ASBLM11A,,SQMS-11a,Student,,,✓,
+How often does your teacher give you homework in the following subjects? Science,,ASBLS11B,,SQMS-11b,Student,,,✓,
+"When your teacher gives you home in the following subjects, about how much time do you usually spend on your homework? Mathematics",,ASBLM12A,,SQMS-12a,Student,,,✓,
+"When your teacher gives you home in the following subjects, about how much time do you usually spend on your homework? Science",,ASBLS12B,,SQMS-12b,Student,,,✓,
+"By the end of this school year, how many years will you have been teaching altogether?",ATBG01,ATBLG01,TQG-01,TQG-01,Teacher,,✓,✓,✓
+Which of these describes you?,ATBG02,ATBLG02,TQG-02,TQG-02,Teacher,,✓,✓,✓
+How old are you?,ATBG03,ATBLG03,TQG-03,TQG-03,Teacher,,✓,✓,✓
+What is the highest level of formal education you have completed?,ATBG04,ATBLG04,TQG-04,TQG-04,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study?
+Education—Primary/Elementary",ATBG05AA,ATBLG05AA,TQG-05Aa,TQG-05Aa,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study? Education—Secondary",ATBG05AB,ATBLG05AB,TQG-05Ab,TQG-05Ab,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study? Mathematics",ATBG05AC,ATBLG05AC,TQG-05Ac,TQG-05Ac,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study? Science",ATBG05AD,ATBLG05AD,TQG-05Ad,TQG-05Ad,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study? <language of test>",ATBG05AE,ATBLG05AE,TQG-05Ae,TQG-05Ae,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study? Other",ATBG05AF,ATBLG05AF,TQG-05Af,TQG-05Af,Teacher,,✓,✓,✓
+"If your major or main area of study was education, did you have a <specialization> in any of the following? Mathematics",ATBG05BA,ATBLG05BA,TQG-05Ba,TQG-05Ba,Teacher,,✓,✓,✓
+"If your major or main area of study was education, did you have a <specialization> in any of the following? Science",ATBG05BB,ATBLG05BB,TQG-05Bb,TQG-05Bb,Teacher,,✓,✓,✓
+"If your major or main area of study was education, did you have a <specialization> in any of the following? Language/reading",ATBG05BC,ATBLG05BC,TQG-05Bc,TQG-05Bc,Teacher,,✓,✓,✓
+"If your major or main area of study was education, did you have a <specialization> in any of the following? Other subject",ATBG05BD,ATBLG05BD,TQG-05Bd,TQG-05Bd,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' understanding of the school's curricular goals,ATBG06A,ATBLG06A,TQG-06a,TQG-06a,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' degree of success in implementing the school's curriculum,ATBG06B,ATBLG06B,TQG-06b,TQG-06b,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' expectations for student achievement,ATBG06C,ATBLG06C,TQG-06c,TQG-06c,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' ability to inspire students,ATBG06D,ATBLG06D,TQG-06d,TQG-06d,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Parental involvement in school activities,ATBG06E,ATBLG06E,TQG-06e,TQG-06e,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Parental commitment to ensure that students are ready to learn,ATBG06F,ATBLG06F,TQG-06f,TQG-06f,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Parental expectations for student achievement,ATBG06G,ATBLG06G,TQG-06g,TQG-06g,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Parental support for student achievement,ATBG06H,ATBLG06H,TQG-06h,TQG-06h,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Students' desire to do well in school,ATBG06I,ATBLG06I,TQG-06i,TQG-06i,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Students' ability to reach school's academic goals,ATBG06J,ATBLG06J,TQG-06j,TQG-06j,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Students' respect for classmates who excel academically,ATBG06K,ATBLG06K,TQG-06k,TQG-06k,Teacher,,✓,✓,✓
+How much do you agree or disagree with the following statements about your current school? I feel safe at this school,ATBG07A,,TQG-07a,,Teacher,,✓,,
+How much do you agree or disagree with the following statements about your current school? This school's security policies and practices are sufficient,ATBG07B,,TQG-07b,,Teacher,,✓,,
+How much do you agree or disagree with the following statements about your current school?  The students behave in an orderly manner,ATBG07C,,TQG-07c,,Teacher,,✓,,
+How much do you agree or disagree with the following statements about your current school? The students are respectful of the teachers,ATBG07D,,TQG-07d,,Teacher,,✓,,
+How much do you agree or disagree with the following statements about your current school? The students respect school property,ATBG07E,,TQG-07e,,Teacher,,✓,,
+How much do you agree or disagree with the following statements about your current school?  This school has clear rules about student conduct,ATBG07F,,TQG-07f,,Teacher,,✓,,
+How much do you agree or disagree with the following statements about your current school? This school's rules are enforced in a fair and consistent manner,ATBG07G,,TQG-07g,,Teacher,,✓,,
+How often do you have these feelings about being a teacher? I am content with my profession as a teacher,ATBG08A,ATBLG07A,TQG-08a,TQG-07a,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I find my work full of meaning and purpose,ATBG08B,ATBLG07B,TQG-08b,TQG-07b,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I am enthusiastic about my job,ATBG08C,ATBLG07C,TQG-08c,TQG-07c,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? My work inspires me,ATBG08D,ATBLG07D,TQG-08d,TQG-07d,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I am proud of the work I do,ATBG08E,ATBLG07E,TQG-08e,TQG-07e,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I feel appreciated as a teacher,ATBG08F,ATBLG07F,TQG-08f,TQG-07f,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I enjoy the challenges of teaching,ATBG08G,ATBLG07G,TQG-08g,TQG-07g,Teacher,,✓,✓,✓
+How much do you agree or disagree with the statements below? There are too many students in the classes,ATBG09A,,TQG-09a,,Teacher,,✓,,
+How much do you agree or disagree with the statements below? I have too much material to cover in class,ATBG09B,,TQG-09b,,Teacher,,✓,,
+How much do you agree or disagree with the statements below? I have too many teaching hours,ATBG09C,,TQG-09c,,Teacher,,✓,,
+How much do you agree or disagree with the statements below? I need more time to prepare for class,ATBG09D,,TQG-09d,,Teacher,,✓,,
+How much do you agree or disagree with the statements below? I need more time to assist individual students,ATBG09E,,TQG-09e,,Teacher,,✓,,
+How much do you agree or disagree with the statements below? I feel too much pressure from parents,ATBG09F,,TQG-09f,,Teacher,,✓,,
+How much do you agree or disagree with the statements below? I have difficulty keeping up with all of the changes to the curriculum,ATBG09G,,TQG-09g,,Teacher,,✓,,
+How much do you agree or disagree with the statements below? I have too many administrative tasks,ATBG09H,,TQG-09h,,Teacher,,✓,,
+How many students are in this class?,ATBG10A,ATBLG08A,TQG-10A,TQG-08A,Teacher,,✓,✓,✓
+How many of the students in #G10A are in <fourth grade>?,ATBG10B,ATBLG08B,TQG-10B,TQG-08B,Teacher,,✓,✓,✓
+"How many <fourth grade> students experience difficulties understanding spoken <language of test>? 
+",ATBG11,ATBLG09,TQG-11,TQG-09,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Relate the lesson to students' daily lives,ATBG12A,ATBLG10A,TQG-12a,TQG-10a,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Ask students to explain their answers,ATBG12B,ATBLG10B,TQG-12b,TQG-10b,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Communicate goals or objectives for the lesson to the students,ATBG12C,ATBLG10C,TQG-12c,TQG-10c,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Ask students to complete challenging exercises that require them to go beyond the instruction,ATBG12D,ATBLG10D,TQG-12d,TQG-10d,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Encourage classroom discussions among students,ATBG12E,ATBLG10E,TQG-12e,TQG-10e,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Link new content to students' prior knowledge,ATBG12F,ATBLG10F,TQG-12f,TQG-10f,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Ask students to decide their own problem solving procedures,ATBG12G,ATBLG10G,TQG-12g,TQG-10g,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students lacking prerequisite knowledge or skills",ATBG13A,ATBLG11A,TQG-13a,TQG-11a,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students suffering from lack of basic nutrition",ATBG13B,ATBLG11B,TQG-13b,TQG-11b,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students suffering from not enough sleep",ATBG13C,ATBLG11C,TQG-13c,TQG-11c,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students absent from class",ATBG13D,ATBLG11D,TQG-13d,TQG-11d,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Disruptive students",ATBG13E,ATBLG11E,TQG-13e,TQG-11e,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Uninterested students",ATBG13F,ATBLG11F,TQG-13f,TQG-11f,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Distracted students",ATBG13G,ATBLG11G,TQG-13g,TQG-11g,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students with mental, emotional, or psychological impairment",ATBG13H,ATBLG11H,TQG-13h,TQG-11h,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students with difficulties understanding the language of instruction",ATBG13I,ATBLG11I,TQG-13i,TQG-11i,Teacher,,✓,✓,✓
+"In a typical week, how much time do you spend teaching mathematics to the students in this class? (minutes)",ATBM01,ATBLM01,TQM-01,TQM-01,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Listen to me explain new mathematics content",ATBM02A,ATBLM02A,TQM-02a,TQM-02a,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Listen to me explain how to solve problems",ATBM02B,ATBLM02B,TQM-02b,TQM-02b,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Memorize rules, procedures, and facts",ATBM02C,ATBLM02C,TQM-02c,TQM-02c,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Practice procedures on their own",ATBM02D,ATBLM02D,TQM-02d,TQM-02d,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Apply what they have learned to new problem situations on their own",ATBM02E,ATBLM02E,TQM-02e,TQM-02e,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Work problems together in the whole class with direct guidance from me",ATBM02F,ATBLM02F,TQM-02f,TQM-02f,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Work in mixed ability groups",ATBM02G,ATBLM02G,TQM-02g,TQM-02g,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Work in same ability groups",ATBM02H,ATBLM02H,TQM-02h,TQM-02h,Teacher,,✓,✓,✓
+Are the students in this class permitted to use calculators during mathematics lessons?,ATBM03,,TQM-03,,Teacher,,✓,,
+"Do the students in this class have digital devices (including computers, tablets, or smartphones) available to use during mathematics lessons?",ATBM04A,ATBLM04A,TQM-04A,TQM-04A,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The class has digital devices for each student to use,ATBM04BA,ATBLM04BA,TQM-04Ba,TQM-04Ba,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The class has digital devices that students can share,ATBM04BB,ATBLM04BB,TQM-04Bb,TQM-04Bb,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The school has digital devices that the class can use sometimes,ATBM04BC,ATBLM04BC,TQM-04Bc,TQM-04Bc,Teacher,,✓,✓,✓
+What access do the students have to digital devices? Students bring their own digital devices,ATBM04BD,ATBLM04BD,TQM-04Bd,TQM-04Bd,Teacher,,✓,✓,✓
+How often do you have students use digital devices during mathematics instruction?,ATBM04C,ATBLM04C,TQM-04C,TQM-04C,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these mathematics activities? Practice problems and procedures,ATBM04DA,ATBLM04DA,TQM-04Da,TQM-04Da,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these mathematics activities? Solve extended for contextualized problems,ATBM04DB,ATBLM04DB,TQM-04Db,TQM-04Db,Teacher,,✓,✓,✓
+"How often do you ask the students in your class to use digital devices to do these mathematics activities? Create graphs, tables, or other data displays",ATBM04DC,ATBLM04DC,TQM-04Dc,TQM-04Dc,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these mathematics activities? Play games involving mathematics calculations or concepts,ATBM04DD,ATBLM04DD,TQM-04Dd,TQM-04Dd,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these mathematics activities? Read the textbook or watch instructional videos,ATBM04DE,ATBLM04DE,TQM-04De,TQM-04De,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these mathematics activities? Take a test,ATBM04DF,ATBLM04DF,TQM-04Df,TQM-04Df,Teacher,,✓,✓,✓
+How much do each of these keep you from incorporating digital devices into mathematics instruction? Not knowing how to use digital devices to improve student learning,ATBM05A,,TQM-05a,,Teacher,,✓,,
+How much do each of these keep you from incorporating digital devices into mathematics instruction? Not enough access to digital devices,ATBM05B,,TQM-05b,,Teacher,,✓,,
+How much do each of these keep you from incorporating digital devices into mathematics instruction? Keeping students on task when the class is using digital devices,ATBM05C,,TQM-05c,,Teacher,,✓,,
+How much do each of these keep you from incorporating digital devices into mathematics instruction? Lack of technical support from the school,ATBM05D,,TQM-05d,,Teacher,,✓,,
+When students in this class have been taught each of the following mathematics topics. Number: Recognize place value and order whole numbers,ATBM06AA,ATBLM05AA,TQM-06Aa,TQM-05Aa,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Add and subtract up to 4-digit numbers,ATBM06AB,ATBLM05AB,TQM-06Ab,TQM-05Ab,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Multiply up to 3-digit by 1-digit and 2-digit by 2-digit numbers,ATBM06AC,ATBLM05AC,TQM-06Ac,TQM-05Ac,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Divide up to 3-digit by 1-digit numbers,ATBM06AD,ATBLM05AD,TQM-06Ad,TQM-05Ad,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Number: Solve problems with odd/even numbers, multiples, or factors",ATBM06AE,ATBLM05AE,TQM-06Ae,TQM-05Ae,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Round or make estimations with whole numbers,ATBM06AF,ATBLM05AF,TQM-06Af,TQM-05Af,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Find the missing number or operation in a number sentence,ATBM06AG,ATBLM05AG,TQM-06Ag,TQM-05Ag,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Extend a number pattern or find the missing number in a pattern,ATBM06AH,ATBLM05AH,TQM-06Ah,TQM-05Ah,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Number: Represent, compare, and order fractions",ATBM06AI,ATBLM05AI,TQM-06Ai,TQM-05Ai,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Add and subtract simple fractions,ATBM06AJ,ATBLM05AJ,TQM-06Aj,TQM-05Aj,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Number: Represent, compare, and order decimals up to two decimal places",ATBM06AK,ATBLM05AK,TQM-06Ak,TQM-05Ak,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Add and subtract with decimals up to two decimal places,ATBM06AL,ATBLM05AL,TQM-06Al,TQM-05Al,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Measure, estimate, add, and subtract lengths",ATBM06BA,ATBLM05BA,TQM-06Ba,TQM-05Ba,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Add and subtract mass, volume, or time in appropriate units",ATBM06BB,ATBLM05BB,TQM-06Bb,TQM-05Bb,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Find perimeters of polygons,ATBM06BC,ATBLM05BC,TQM-06Bc,TQM-05Bc,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Find areas of shapes covered with squares or volumes of shapes filled with cubes,ATBM06BD,ATBLM05BD,TQM-06Bd,TQM-05Bd,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Recognize and draw parallel and perpendicular lines,ATBM06BE,ATBLM05BE,TQM-06Be,TQM-05Be,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Compare and draw angles,ATBM06BF,ATBLM05BF,TQM-06Bf,TQM-05Bf,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Describe and draw common two-dimensional shapes (e.g., circles, triangles, quadrilaterals)",ATBM06BG,ATBLM05BG,TQM-06Bg,TQM-05Bg,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Describe and draw common three-dimensional shapes (e.g., cubes, rectangular solids, cones, cylinders, spheres)",ATBM06BH,ATBLM05BH,TQM-06Bh,TQM-05Bh,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Data: Read and interpret data displays,ATBM06CA,ATBLM05CA,TQM-06Ca,TQM-05Ca,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Data: Create or complete data displays,ATBM06CB,ATBLM05CB,TQM-06Cb,TQM-05Cb,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Data: Draw conclusions from two or more data sources,ATBM06CC,ATBLM05CC,TQM-06Cc,TQM-05Cc,Teacher,,✓,✓,✓
+How often do you usually assign mathematics homework to the students in this class?,ATBM07A,ATBLM06A,TQM-07,TQM-06A,Teacher,,✓,✓,✓
+How often do you do the following with the mathematics homework assignments for this class? Correct assignments and give feedback to students,ATBM07BA,ATBLM06BA,TQM-07Ba,TQM-06Ba,Teacher,,✓,✓,✓
+How often do you do the following with the mathematics homework assignments for this class? Discuss the homework in class,ATBM07BB,ATBLM06BB,TQM-07Bb,TQM-06Bb,Teacher,,✓,✓,✓
+How often do you do the following with the mathematics homework assignments for this class? Monitor whether or not the homework was completed,ATBM07BC,ATBLM06BC,TQM-07Bc,TQM-06Bc,Teacher,,✓,✓,✓
+How much importance do you place on these strategies to assess students' learning in mathematics? Observing students as they work,ATBM08A,ATBLM07A,TQM-08a,TQM-07a,Teacher,,✓,✓,✓
+How much importance do you place on these strategies to assess students' learning in mathematics? Asking students to answer questions during class,ATBM08B,ATBLM07B,TQM-08b,TQM-07b,Teacher,,✓,✓,✓
+"How much importance do you place on these strategies to assess students' learning in mathematics? Short, regular written assessments",ATBM08C,ATBLM07C,TQM-08c,TQM-07c,Teacher,,✓,✓,✓
+"How much importance do you place on these strategies to assess students' learning in mathematics? Longer tests (e.g., unit tests or exams)",ATBM08D,ATBLM07D,TQM-08d,TQM-07d,Teacher,,✓,✓,✓
+How much importance do you place on these strategies to assess students' learning in mathematics? Long-term projects,ATBM08E,ATBLM07E,TQM-08e,TQM-07e,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Mathematics content",ATBM09AA,ATBLM08AA,TQM-09Aa,TQM-08Aa,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Mathematics pedagogy/instruction",ATBM09AB,ATBLM08AB,TQM-09Ab,TQM-08Ab,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Mathematics curriculum",ATBM09AC,ATBLM08AC,TQM-09Ac,TQM-08Ac,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Integrating technology into mathematics instruction",ATBM09AD,ATBLM08AD,TQM-09Ad,TQM-08Ad,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Improving students' critical thinking or problem solving skills",ATBM09AE,ATBLM08AE,TQM-09Ae,TQM-08Ae,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Mathematics assessment",ATBM09AF,ATBLM08AF,TQM-09Af,TQM-08Af,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Addressing individual students' needs",ATBM09AG,ATBLM08AG,TQM-09Ag,TQM-08Ag,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Mathematics content,ATBM09BA,ATBLM08BA,TQM-09Ba,TQM-08Ba,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Mathematics pedagogy/instruction,ATBM09BB,ATBLM08BB,TQM-09Bb,TQM-08Bb,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Mathematics curriculum,ATBM09BC,ATBLM08BC,TQM-09Bc,TQM-08Bc,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Integrating technology into mathematics instruction,ATBM09BD,ATBLM08BD,TQM-09Bd,TQM-08Bd,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Improving students’ critical thinking or problem solving skills,ATBM09BE,ATBLM08BE,TQM-09Be,TQM-08Be,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Mathematics assessment,ATBM09BF,ATBLM08BF,TQM-09Bf,TQM-08Bf,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Addressing individual students’ needs,ATBM09BG,ATBLM08BG,TQM-09Bg,TQM-08Bg,Teacher,,✓,✓,✓
+"Is science taught mainly as a separate subject (i.e., not integrated with other subjects) to the students in this class?",ATBS01A,ATBLS01A,TQS-01A,TQS-01A,Teacher,,✓,✓,✓
+Please estimate the time that you spend on science topics with students in this class (minutes per week).,ATBS01B,ATBLS01B,TQS-01B,TQS-01B,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Listen to me explain new science content",ATBS02A,ATBLS02A,TQS-02a,TQS-02a,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Observe natural phenomena such as the weather or a plant growing and describe what they see",ATBS02B,ATBLS02B,TQS-02b,TQS-02b,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Watch me demonstrate an experiment or investigation",ATBS02C,ATBLS02C,TQS-02c,TQS-02c,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Read their textbooks or other resource materials",ATBS02D,ATBLS02D,TQS-02d,TQS-02d,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Memorize facts and principles",ATBS02E,ATBLS02E,TQS-02e,TQS-02e,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Do field work outside the class",ATBS02F,ATBLS02F,TQS-02f,TQS-02f,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Work in mixed ability groups",ATBS02G,ATBLS02G,TQS-02g,TQS-02g,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Work in same ability groups",ATBS02H,ATBLS02H,TQS-02h,TQS-02h,Teacher,,✓,✓,✓
+How much emphasis do you place on the following when teaching science to students in this class? Encouraging students to ask questions about scientific phenomena,ATBS03A,ATBLS03A,TQS-03a,TQS-03a,Teacher,,✓,✓,✓
+How much emphasis do you place on the following when teaching science to students in this class? Having students predict the outcomes of experiments or investigations,ATBS03B,ATBLS03B,TQS-03b,TQS-03b,Teacher,,✓,✓,✓
+"How much emphasis do you place on the following when teaching science to students in this class? Having students create representations (e.g. models, graphs) to explain scientific phenomena",ATBS03C,ATBLS03C,TQS-03c,TQS-03c,Teacher,,✓,✓,✓
+How much emphasis do you place on the following when teaching science to students in this class? Having students use scientific concepts to explain phenomena,ATBS03D,ATBLS03D,TQS-03d,TQS-03d,Teacher,,✓,✓,✓
+How much emphasis do you place on the following when teaching science to students in this class? Having students conduct experiments (hands-on or virtually),ATBS03E,ATBLS03E,TQS-03e,TQS-03e,Teacher,,✓,✓,✓
+How often do you do the following when teaching this class? Develop students' positive attitudes toward the natural environment,ATBS04A,ATBLS05A,TQS-04a,TQS-05a,Teacher,,✓,✓,✓
+"How often do you do the following when teaching this class? Encourage students to use less resources (e.g., <water, energy>)",ATBS04B,ATBLS05B,TQS-04b,TQS-05b,Teacher,,✓,✓,✓
+How often do you do the following when teaching this class? Discuss how student actions in and outside of school can help the natural environment,ATBS04C,ATBLS05C,TQS-04c,TQS-05c,Teacher,,✓,✓,✓
+"How often do you do the following when teaching this class? Discuss environmental issues (e.g., <climate change, endangered animals>)",ATBS04D,ATBLS05D,TQS-04d,TQS-05d,Teacher,,✓,✓,✓
+"Do you do these things to teach students about environmental issues and sustainability? Take students to visit natural areas (e.g., <a pond or meadow>)",ATBS05A,ATBLS06A,TQS-05a,TQS-06a,Teacher,,✓,✓,✓
+"Do you do these things to teach students about environmental issues and sustainability? Have students participate in environmentally responsible activities (e.g., <pick up trash>)",ATBS05B,ATBLS06B,TQS-05b,TQS-06b,Teacher,,✓,✓,✓
+"Do you do these things to teach students about environmental issues and sustainability? Have students do research or projects on a particular environmental topic (e.g., <pollution, climate change>)",ATBS05C,ATBLS06C,TQS-05c,TQS-06c,Teacher,,✓,✓,✓
+Do you do these things to teach students about environmental issues and sustainability? Provide opportunities for students to participate in outdoor environmental education programs outside of school,ATBS05D,ATBLS06D,TQS-05d,TQS-06d,Teacher,,✓,✓,✓
+How much do you agree or disagree that education about environmental sustainability should be a priority for schools?,ATBS06,ATBLS07,TQS-06,TQS-07,Teacher,,✓,✓,✓
+"Do the students in this class have digital devices (including computers, tablets, or smartphones) available to use during science lessons?",ATBS07A,ATBLS08A,TQS-07A,TQS-08A,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The class has digital devices for each student to use,ATBS07BA,ATBLS08BA,TQS-07Ba,TQS-08Ba,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The class has digital devices that students can share,ATBS07BB,ATBLS08BB,TQS-07Bb,TQS-08Bb,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The school has digital devices that the class can use sometimes,ATBS07BC,ATBLS08BC,TQS-07Bc,TQS-08Bc,Teacher,,✓,✓,✓
+What access do the students have to digital devices? Students bring their own digital devices,ATBS07BD,ATBLS08BD,TQS-07Bd,TQS-08Bd,Teacher,,✓,✓,✓
+How often do you have students use digital devices during science instruction?,ATBS07C,ATBLS08C,TQS-07C,TQS-08C,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these science activities? Solve extended for contextualized problems,ATBS07DA,ATBLS08DA,TQS-07Da,TQS-08Da,Teacher,,✓,✓,✓
+"How often do you ask the students in your class to use digital devices to do these science activities? Create graphs, tables, or other data displays",ATBS07DB,ATBLS08DB,TQS-07Db,TQS-08Db,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these science activities? Play games involving science concepts,ATBS07DC,ATBLS08DC,TQS-07Dc,TQS-08Dc,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these science activities? Conduct virtual experiments or other simulations,ATBS07DD,ATBLS08DD,TQS-07Dd,TQS-08Dd,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these science activities? Read the textbook or watch instructional videos,ATBS07DE,ATBLS08DE,TQS-07De,TQS-08De,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these science activities? Take a test,ATBS07DF,ATBLS08DF,TQS-07Df,TQS-08Df,Teacher,,✓,✓,✓
+How much do each of these keep you from incorporating digital devices into science instruction? Not knowing how to use digital devices to improve student learning,ATBS08A,,TQS-08a,,Teacher,,✓,,
+How much do each of these keep you from incorporating digital devices into science instruction? Not enough access to digital devices,ATBS08B,,TQS-08b,,Teacher,,✓,,
+How much do each of these keep you from incorporating digital devices into science instruction? Keeping students on task when the class is using digital devices,ATBS08C,,TQS-08c,,Teacher,,✓,,
+How much do each of these keep you from incorporating digital devices into science instruction? Lack of technical support from the school,ATBS08D,,TQS-08d,,Teacher,,✓,,
+When students in this class have been taught each of the following science topics. Life Science: Basic differences between living and nonliving things,ATBS09AA,ATBLS09AA,TQS-09Aa,TQS-09Aa,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Defining characteristics of major groups of living things,ATBS09AB,ATBLS09AB,TQS-09Ab,TQS-09Ab,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Life Science: Functions of major structures in living things (e.g., roots in plants)",ATBS09AC,ATBLS09AC,TQS-09Ac,TQS-09Ac,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Life Science: Life cycle stages of common plants and animals (e.g., flowering plants, frogs)",ATBS09AD,ATBLS09AD,TQS-09Ad,TQS-09Ad,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Inherited characteristics of living things,ATBS09AE,ATBLS09AE,TQS-09Ae,TQS-09Ae,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Life Science: How living things survive in their environments (e.g., physical characteristics, behaviors)",ATBS09AF,ATBLS09AF,TQS-09Af,TQS-09Af,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: How human actions impact the environment,ATBS09AG,ATBLS09AG,TQS-09Ag,TQS-09Ag,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Life Science: Common ecosystems and their organisms (e.g., forest, desert)",ATBS09AH,ATBLS09AH,TQS-09Ah,TQS-09Ah,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Interpreting simple food chains,ATBS09AI,ATBLS09AI,TQS-09Ai,TQS-09Ai,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Competition within ecosystems,ATBS09AJ,ATBLS09AJ,TQS-09Aj,TQS-09Aj,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Ways for humans to maintain good health and avoid illness,ATBS09AK,ATBLS09AK,TQS-09Ak,TQS-09Ak,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: Solids, liquids, gases, and how their shapes and volumes differ",ATBS09BA,ATBLS09BA,TQS-09Ba,TQS-09Ba,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Grouping objects based on their physical properties,ATBS09BB,ATBLS09BB,TQS-09Bb,TQS-09Bb,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: Examples of mixtures and how they can be separated (e.g., filtration, evaporation)",ATBS09BC,ATBLS09BC,TQS-09Bc,TQS-09Bc,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Magnetic attraction and repulsion,ATBS09BD,ATBLS09BD,TQS-09Bd,TQS-09Bd,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Examples of physical and chemical changes in everyday life,ATBS09BE,ATBLS09BE,TQS-09Be,TQS-09Be,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: How to make solids dissolve faster in liquids (e.g., stirring, heating)",ATBS09BF,ATBLS09BF,TQS-09Bf,TQS-09Bf,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Concentration of solutions,ATBS09BG,ATBLS09BG,TQS-09Bg,TQS-09Bg,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: Sources of energy (e.g., the Sun, wind, water, coal, oil, and gas)",ATBS09BH,ATBLS09BH,TQS-09Bh,TQS-09Bh,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: How light is related to shadows, reflections, and rainbows",ATBS09BI,ATBLS09BI,TQS-09Bi,TQS-09Bi,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: How vibrations are related to sound,ATBS09BJ,ATBLS09BJ,TQS-09Bj,TQS-09Bj,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Movement of heat from hotter to cooler objects,ATBS09BK,ATBLS09BK,TQS-09Bk,TQS-09Bk,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Simple electrical circuits,ATBS09BL,ATBLS09BL,TQS-09Bl,TQS-09Bl,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: How motion is affected by forces (e.g., gravity, pushing, pulling, friction)",ATBS09BM,ATBLS09BM,TQS-09Bm,TQS-09Bm,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: Examples of simple machines (e.g., levers, ramps)",ATBS09BN,ATBLS09BN,TQS-09Bn,TQS-09Bn,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Earth Science: Composition of Earth's surface (i.e., land, fresh water, salt water)",ATBS09CA,ATBLS09CA,TQS-09Ca,TQS-09Ca,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: Earth's resources and their use by humans,ATBS09CB,ATBLS09CB,TQS-09Cb,TQS-09Cb,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: Renewable and nonrenewable resources,ATBS09CC,ATBLS09CC,TQS-09Cc,TQS-09Cc,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: How wind and water change Earth's surface over time,ATBS09CD,ATBLS09CD,TQS-09Cd,TQS-09Cd,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: What fossils can show about Earth's history,ATBS09CE,ATBLS09CE,TQS-09Ce,TQS-09Ce,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: How weather changes day to day and with geographic location,ATBS09CF,ATBLS09CF,TQS-09Cf,TQS-09Cf,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: Effects of increasing temperatures on Earth,ATBS09CG,ATBLS09CG,TQS-09Cg,TQS-09Cg,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Earth Science: Composition of the Solar System (the Sun, Earth, Moon, and other planets)",ATBS09CH,ATBLS09CH,TQS-09Ch,TQS-09Ch,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: How the Moon's movement around the Earth changes its appearance,ATBS09CI,ATBLS09CI,TQS-09Ci,TQS-09Ci,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: How Earth's rotation causes day and night,ATBS09CJ,ATBLS09CJ,TQS-09Cj,TQS-09Cj,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: How Earth's annual movement around the Sun causes seasons or seasonal change,ATBS09CK,ATBLS09CK,TQS-09Ck,TQS-09Ck,Teacher,,✓,✓,✓
+How often do you usually assign science homework to the students in this class?,ATBS10A,ATBLS10A,TQS-10A,TQS-10A,Teacher,,✓,✓,✓
+How often do you do the following with the science homework assignments for this class? Correct assignments and give feedback to students,ATBS10BA,ATBLS10BA,TQS-10Ba,TQS-10Ba,Teacher,,✓,✓,✓
+How often do you do the following with the science homework assignments for this class? Discuss the homework in class,ATBS10BB,ATBLS10BB,TQS-10Bb,TQS-10Bb,Teacher,,✓,✓,✓
+How often do you do the following with the science homework assignments for this class? Monitor whether or not the homework was completed,ATBS10BC,ATBLS10BC,TQS-10Bc,TQS-10Bc,Teacher,,✓,✓,✓
+How much importance do you place on these strategies to assess students' learning in science? Observing students as they work,ATBS11A,ATBLS11A,TQS-11a,TQS-11a,Teacher,,✓,✓,✓
+How much importance do you place on these strategies to assess students' learning in science? Asking students to answer questions during class,ATBS11B,ATBLS11B,TQS-11b,TQS-11b,Teacher,,✓,✓,✓
+"How much importance do you place on these strategies to assess students' learning in science? Short, regular written assessments",ATBS11C,ATBLS11C,TQS-11c,TQS-11c,Teacher,,✓,✓,✓
+"How much importance do you place on these strategies to assess students' learning in science? Longer tests (e.g., unit tests or exams)",ATBS11D,ATBLS11D,TQS-11d,TQS-11d,Teacher,,✓,✓,✓
+How much importance do you place on these strategies to assess students' learning in science? Long-term projects,ATBS11E,ATBLS11E,TQS-11e,TQS-11e,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Science content",ATBS12AA,ATBLS12AA,TQS-12Aa,TQS-12Aa,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Science pedagogy/instruction",ATBS12AB,ATBLS12AB,TQS-12Ab,TQS-12Ab,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Science curriculum",ATBS12AC,ATBLS12AC,TQS-12Ac,TQS-12Ac,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Integrating technology into science instruction",ATBS12AD,ATBLS12AD,TQS-12Ad,TQS-12Ad,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Improving students' critical thinking or inquiry skills",ATBS12AE,ATBLS12AE,TQS-12Ae,TQS-12Ae,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Science assessment",ATBS12AF,ATBLS12AF,TQS-12Af,TQS-12Af,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Addressing individual students' needs",ATBS12AG,ATBLS12AG,TQS-12Ag,TQS-12Ag,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Integrating science with other subjects",ATBS12AH,ATBLS12AH,TQS-12Ah,TQS-12Ah,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Integrating environmentalism and sustainability into science instruction",ATBS12AI,ATBLS12AI,TQS-12Ai,TQS-12Ai,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Science content,ATBS12BA,ATBLS12BA,TQS-12Ba,TQS-12Ba,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Science pedagogy/instruction,ATBS12BB,ATBLS12BB,TQS-12Bb,TQS-12Bb,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Science curriculum,ATBS12BC,ATBLS12BC,TQS-12Bc,TQS-12Bc,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Integrating technology into science instruction,ATBS12BD,ATBLS12BD,TQS-12Bd,TQS-12Bd,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Improving students’ critical thinking or inquiry skills,ATBS12BE,ATBLS12BE,TQS-12Be,TQS-12Be,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Science assessment,ATBS12BF,ATBLS12BF,TQS-12Bf,TQS-12Bf,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Addressing individual students’ needs,ATBS12BG,ATBLS12BG,TQS-12Bg,TQS-12Bg,Teacher,,✓,✓,✓
+"Do you need future professional development in any of the following? Integrating science with other subjects (e.g., mathematics, technology)",ATBS12BH,ATBLS12BH,TQS-12Bh,TQS-12Bh,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Integrating environmentalism and sustainability into science instruction,ATBS12BI,ATBLS12BI,TQS-12Bi,TQS-12Bi,Teacher,,✓,✓,✓
+"By the end of this school year, how many years will you have been teaching altogether?",ATBG01,ATBLG01,TQG-01,TQG-01,Teacher,,✓,✓,✓
+Which of these describes you?,ATBG02,ATBLG02,TQG-02,TQG-02,Teacher,,✓,✓,✓
+How old are you?,ATBG03,ATBLG03,TQG-03,TQG-03,Teacher,,✓,✓,✓
+What is the highest level of formal education you have completed?,ATBG04,ATBLG04,TQG-04,TQG-04,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study?
+Education—Primary/Elementary",ATBG05AA,ATBLG05AA,TQG-05Aa,TQG-05Aa,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study? Education—Secondary",ATBG05AB,ATBLG05AB,TQG-05Ab,TQG-05Ab,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study? Mathematics",ATBG05AC,ATBLG05AC,TQG-05Ac,TQG-05Ac,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study? Science",ATBG05AD,ATBLG05AD,TQG-05Ad,TQG-05Ad,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study? <language of test>",ATBG05AE,ATBLG05AE,TQG-05Ae,TQG-05Ae,Teacher,,✓,✓,✓
+"During your <post-secondary> education, what was your major or main area(s) of study? Other",ATBG05AF,ATBLG05AF,TQG-05Af,TQG-05Af,Teacher,,✓,✓,✓
+"If your major or main area of study was education, did you have a <specialization> in any of the following? Mathematics",ATBG05BA,ATBLG05BA,TQG-05Ba,TQG-05Ba,Teacher,,✓,✓,✓
+"If your major or main area of study was education, did you have a <specialization> in any of the following? Science",ATBG05BB,ATBLG05BB,TQG-05Bb,TQG-05Bb,Teacher,,✓,✓,✓
+"If your major or main area of study was education, did you have a <specialization> in any of the following? Language/reading",ATBG05BC,ATBLG05BC,TQG-05Bc,TQG-05Bc,Teacher,,✓,✓,✓
+"If your major or main area of study was education, did you have a <specialization> in any of the following? Other subject",ATBG05BD,ATBLG05BD,TQG-05Bd,TQG-05Bd,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' understanding of the school's curricular goals,ATBG06A,ATBLG06A,TQG-06a,TQG-06a,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' degree of success in implementing the school's curriculum,ATBG06B,ATBLG06B,TQG-06b,TQG-06b,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' expectations for student achievement,ATBG06C,ATBLG06C,TQG-06c,TQG-06c,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Teachers' ability to inspire students,ATBG06D,ATBLG06D,TQG-06d,TQG-06d,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Parental involvement in school activities,ATBG06E,ATBLG06E,TQG-06e,TQG-06e,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Parental commitment to ensure that students are ready to learn,ATBG06F,ATBLG06F,TQG-06f,TQG-06f,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Parental expectations for student achievement,ATBG06G,ATBLG06G,TQG-06g,TQG-06g,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Parental support for student achievement,ATBG06H,ATBLG06H,TQG-06h,TQG-06h,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Students' desire to do well in school,ATBG06I,ATBLG06I,TQG-06i,TQG-06i,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Students' ability to reach school's academic goals,ATBG06J,ATBLG06J,TQG-06j,TQG-06j,Teacher,,✓,✓,✓
+How would you characterize each of the following within your school? Students' respect for classmates who excel academically,ATBG06K,ATBLG06K,TQG-06k,TQG-06k,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I am content with my profession as a teacher,ATBG08A,ATBLG07A,TQG-08a,TQG-07a,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I find my work full of meaning and purpose,ATBG08B,ATBLG07B,TQG-08b,TQG-07b,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I am enthusiastic about my job,ATBG08C,ATBLG07C,TQG-08c,TQG-07c,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? My work inspires me,ATBG08D,ATBLG07D,TQG-08d,TQG-07d,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I am proud of the work I do,ATBG08E,ATBLG07E,TQG-08e,TQG-07e,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I feel appreciated as a teacher,ATBG08F,ATBLG07F,TQG-08f,TQG-07f,Teacher,,✓,✓,✓
+How often do you have these feelings about being a teacher? I enjoy the challenges of teaching,ATBG08G,ATBLG07G,TQG-08g,TQG-07g,Teacher,,✓,✓,✓
+How many students are in this class?,ATBG10A,ATBLG08A,TQG-10A,TQG-08A,Teacher,,✓,✓,✓
+How many of the students in #G8A are in <fifth grade>?,ATBG10B,ATBLG08B,TQG-10B,TQG-08B,Teacher,,✓,✓,✓
+How many <fifth grade> students experience difficulties understanding spoken <language of test>?,ATBG11,ATBLG09,TQG-11,TQG-09,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Relate the lesson to students' daily lives,ATBG12A,ATBLG10A,TQG-12a,TQG-10a,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Ask students to explain their answers,ATBG12B,ATBLG10B,TQG-12b,TQG-10b,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Communicate goals or objectives for the lesson to the students,ATBG12C,ATBLG10C,TQG-12c,TQG-10c,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Ask students to complete challenging exercises that require them to go beyond the instruction,ATBG12D,ATBLG10D,TQG-12d,TQG-10d,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Encourage classroom discussions among students,ATBG12E,ATBLG10E,TQG-12e,TQG-10e,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Link new content to students' prior knowledge,ATBG12F,ATBLG10F,TQG-12f,TQG-10f,Teacher,,✓,✓,✓
+How often do you do the following in teaching this class? Ask students to decide their own problem solving procedures,ATBG12G,ATBLG10G,TQG-12g,TQG-10g,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students lacking prerequisite knowledge or skills",ATBG13A,ATBLG11A,TQG-13a,TQG-11a,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students suffering from lack of basic nutrition",ATBG13B,ATBLG11B,TQG-13b,TQG-11b,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students suffering from not enough sleep",ATBG13C,ATBLG11C,TQG-13c,TQG-11c,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students absent from class",ATBG13D,ATBLG11D,TQG-13d,TQG-11d,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Disruptive students",ATBG13E,ATBLG11E,TQG-13e,TQG-11e,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Uninterested students",ATBG13F,ATBLG11F,TQG-13f,TQG-11f,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Distracted students",ATBG13G,ATBLG11G,TQG-13g,TQG-11g,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students with mental, emotional, or psychological impairment",ATBG13H,ATBLG11H,TQG-13h,TQG-11h,Teacher,,✓,✓,✓
+"In your view, to what extent do the following limit how you teach this class? Students with difficulties understanding the language of instruction",ATBG13I,ATBLG11I,TQG-13i,TQG-11i,Teacher,,✓,✓,✓
+"In a typical week, how much time do you spend teaching mathematics to the students in this class? (minutes)",ATBM01,ATBLM01,TQM-01,TQM-01,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Listen to me explain new mathematics content",ATBM02A,ATBLM02A,TQM-02a,TQM-02a,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Listen to me explain how to solve problems",ATBM02B,ATBLM02B,TQM-02b,TQM-02b,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Memorize rules, procedures, and facts",ATBM02C,ATBLM02C,TQM-02c,TQM-02c,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Practice procedures on their own",ATBM02D,ATBLM02D,TQM-02d,TQM-02d,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Apply what they have learned to new problem situations on their own",ATBM02E,ATBLM02E,TQM-02e,TQM-02e,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Work problems together in the whole class with direct guidance from me",ATBM02F,ATBLM02F,TQM-02f,TQM-02f,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Work in mixed ability groups",ATBM02G,ATBLM02G,TQM-02g,TQM-02g,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how often do you ask students to do the following? Work in same ability groups",ATBM02H,ATBLM02H,TQM-02h,TQM-02h,Teacher,,✓,✓,✓
+"In teaching mathematics to this class, how confident do you feel about your ability to do the following? Help students appreciate the value of learning mathematics",,ATBLM03A,,TQM-03a,Teacher,,,✓,
+"In teaching mathematics to this class, how confident do you feel about your ability to do the following? Show students a variety of problem solving strategies",,ATBLM03B,,TQM-03b,Teacher,,,✓,
+"In teaching mathematics to this class, how confident do you feel about your ability to do the following? Adapt teaching to engage students' interests",,ATBLM03C,,TQM-03c,Teacher,,,✓,
+"In teaching mathematics to this class, how confident do you feel about your ability to do the following? Develop students' higher-order thinking skills",,ATBLM03D,,TQM-03d,Teacher,,,✓,
+"In teaching mathematics to this class, how confident do you feel about your ability to do the following? Make mathematics relevant to students",,ATBLM03E,,TQM-03e,Teacher,,,✓,
+"In teaching mathematics to this class, how confident do you feel about your ability to do the following? Provide challenging mathematics activities for excelling students",,ATBLM03F,,TQM-03f,Teacher,,,✓,
+"In teaching mathematics to this class, how confident do you feel about your ability to do the following? Improve mathematics understanding of struggling students",,ATBLM03G,,TQM-03g,Teacher,,,✓,
+"In teaching mathematics to this class, how confident do you feel about your ability to do the following? Assess students' comprehension of mathematics content",,ATBLM03H,,TQM-03h,Teacher,,,✓,
+"Do the students in this class have digital devices (including computers, tablets, or smartphones) available to use during mathematics lessons?",ATBM04A,ATBLM04A,TQM-04A,TQM-04A,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The class has digital devices for each student to use,ATBM04BA,ATBLM04BA,TQM-04Ba,TQM-04Ba,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The class has digital devices that students can share,ATBM04BB,ATBLM04BB,TQM-04Bb,TQM-04Bb,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The school has digital devices that the class can use sometimes,ATBM04BC,ATBLM04BC,TQM-04Bc,TQM-04Bc,Teacher,,✓,✓,✓
+What access do the students have to digital devices? Students bring their own digital devices,ATBM04BD,ATBLM04BD,TQM-04Bd,TQM-04Bd,Teacher,,✓,✓,✓
+How often do you have students use digital devices during mathematics instruction?,ATBM04C,ATBLM04C,TQM-04C,TQM-04C,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these mathematics activities? Practice problems and procedures,ATBM04DA,ATBLM04DA,TQM-04Da,TQM-04Da,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these mathematics activities? Solve extended or contextualized problems,ATBM04DB,ATBLM04DB,TQM-04Db,TQM-04Db,Teacher,,✓,✓,✓
+"How often do you ask the students in your class to use digital devices to do these mathematics activities? Create graphs, tables, or other data displays",ATBM04DC,ATBLM04DC,TQM-04Dc,TQM-04Dc,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these mathematics activities? Play games involving mathematics calculations or concepts,ATBM04DD,ATBLM04DD,TQM-04Dd,TQM-04Dd,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these mathematics activities? Read the textbook or watch instructional videos,ATBM04DE,ATBLM04DE,TQM-04De,TQM-04De,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these mathematics activities? Take a test,ATBM04DF,ATBLM04DF,TQM-04Df,TQM-04Df,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Recognize place value and order whole numbers,ATBM06AA,ATBLM05AA,TQM-06Aa,TQM-05Aa,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Add and subtract up to 4-digit numbers,ATBM06AB,ATBLM05AB,TQM-06Ab,TQM-05Ab,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Multiply up to 3-digit by 1-digit and 2-digit by 2-digit numbers,ATBM06AC,ATBLM05AC,TQM-06Ac,TQM-05Ac,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Divide up to 3-digit by 1-digit numbers,ATBM06AD,ATBLM05AD,TQM-06Ad,TQM-05Ad,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Number: Solve problems with odd/even numbers, multiples, or factors",ATBM06AE,ATBLM05AE,TQM-06Ae,TQM-05Ae,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Round or make estimations with whole numbers,ATBM06AF,ATBLM05AF,TQM-06Af,TQM-05Af,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Find the missing number or operation in a number sentence,ATBM06AG,ATBLM05AG,TQM-06Ag,TQM-05Ag,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Extend a number pattern or find the missing number in a pattern,ATBM06AH,ATBLM05AH,TQM-06Ah,TQM-05Ah,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Number: Represent, compare, and order fractions",ATBM06AI,ATBLM05AI,TQM-06Ai,TQM-05Ai,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Add and subtract simple fractions,ATBM06AJ,ATBLM05AJ,TQM-06Aj,TQM-05Aj,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Number: Represent, compare, and order decimals up to two decimal places",ATBM06AK,ATBLM05AK,TQM-06Ak,TQM-05Ak,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Number: Add and subtract with decimals up to two decimal places,ATBM06AL,ATBLM05AL,TQM-06Al,TQM-05Al,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Measure, estimate, add, and subtract lengths",ATBM06BA,ATBLM05BA,TQM-06Ba,TQM-05Ba,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Add and subtract mass, volume, or time in appropriate units",ATBM06BB,ATBLM05BB,TQM-06Bb,TQM-05Bb,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Find perimeters of polygons,ATBM06BC,ATBLM05BC,TQM-06Bc,TQM-05Bc,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Find areas of shapes covered with squares or volumes of shapes filled with cubes,ATBM06BD,ATBLM05BD,TQM-06Bd,TQM-05Bd,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Recognize and draw parallel and perpendicular lines,ATBM06BE,ATBLM05BE,TQM-06Be,TQM-05Be,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Compare and draw angles,ATBM06BF,ATBLM05BF,TQM-06Bf,TQM-05Bf,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Describe and draw common two-dimensional shapes (e.g., circles, triangles, quadrilaterals)",ATBM06BG,ATBLM05BG,TQM-06Bg,TQM-05Bg,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following mathematics topics. Measurement and Geometry: Describe and draw common three-dimensional shapes (e.g., cubes, rectangular solids, cones, cylinders, spheres)",ATBM06BH,ATBLM05BH,TQM-06Bh,TQM-05Bh,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Data: Read and interpret data displays,ATBM06CA,ATBLM05CA,TQM-06Ca,TQM-05Ca,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Data: Create or complete data displays,ATBM06CB,ATBLM05CB,TQM-06Cb,TQM-05Cb,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following mathematics topics. Data: Draw conclusions from two or more data sources,ATBM06CC,ATBLM05CC,TQM-06Cc,TQM-05Cc,Teacher,,✓,✓,✓
+How often do you usually assign mathematics homework to the students in this class?,ATBM07A,ATBLM06A,TQM-07A,TQM-06A,Teacher,,✓,✓,✓
+How often do you do the following with the mathematics homework assignments for this class? Correct assignments and give feedback to students,ATBM07BA,ATBLM06BA,TQM-07Ba,TQM-06Ba,Teacher,,✓,✓,✓
+How often do you do the following with the mathematics homework assignments for this class? Discuss the homework in class,ATBM07BB,ATBLM06BB,TQM-07Bb,TQM-06Bb,Teacher,,✓,✓,✓
+How often do you do the following with the mathematics homework assignments for this class? Monitor whether or not the homework was completed,ATBM07BC,ATBLM06BC,TQM-07Bc,TQM-06Bc,Teacher,,✓,✓,✓
+"When you assign homework in mathematics, how long do you expect it will take the average student in your class to complete?",,ATBLM06C,,TQM-06C,Teacher,,,✓,
+How much importance do you place on these strategies to assess students' learning in mathematics? Observing students as they work,ATBM08A,ATBLM07A,TQM-08a,TQM-07a,Teacher,,✓,✓,✓
+How much importance do you place on these strategies to assess students' learning in mathematics? Asking students to answer questions during class,ATBM08B,ATBLM07B,TQM-08b,TQM-07b,Teacher,,✓,✓,✓
+"How much importance do you place on these strategies to assess students' learning in mathematics? Short, regular written assessments",ATBM08C,ATBLM07C,TQM-08c,TQM-07c,Teacher,,✓,✓,✓
+"How much importance do you place on these strategies to assess students' learning in mathematics? Longer tests (e.g., unit tests or exams)",ATBM08D,ATBLM07D,TQM-08d,TQM-07d,Teacher,,✓,✓,✓
+How much importance do you place on these strategies to assess students' learning in mathematics? Long-term projects,ATBM08E,ATBLM07E,TQM-08e,TQM-07e,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Mathematics content",ATBM09AA,ATBLM08AA,TQM-09Aa,TQM-08Aa,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Mathematics pedagogy/instruction",ATBM09AB,ATBLM08AB,TQM-09Ab,TQM-08Ab,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Mathematics curriculum",ATBM09AC,ATBLM08AC,TQM-09Ac,TQM-08Ac,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Integrating technology into mathematics instruction",ATBM09AD,ATBLM08AD,TQM-09Ad,TQM-08Ad,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Improving students' critical thinking or problem solving skills",ATBM09AE,ATBLM08AE,TQM-09Ae,TQM-08Ae,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Mathematics assessment",ATBM09AF,ATBLM08AF,TQM-09Af,TQM-08Af,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Addressing individual students' needs",ATBM09AG,ATBLM08AG,TQM-09Ag,TQM-08Ag,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Mathematics content,ATBM09BA,ATBLM08BA,TQM-09Ba,TQM-08Ba,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Mathematics pedagogy/instruction,ATBM09BB,ATBLM08BB,TQM-09Bb,TQM-08Bb,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Mathematics curriculum,ATBM09BC,ATBLM08BC,TQM-09Bc,TQM-08Bc,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Integrating technology into mathematics instruction,ATBM09BD,ATBLM08BD,TQM-09Bd,TQM-08Bd,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Improving students' critical thinking or problem solving skills,ATBM09BE,ATBLM08BE,TQM-09Be,TQM-08Be,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Mathematics assessment,ATBM09BF,ATBLM08BF,TQM-09Bf,TQM-08Bf,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Addressing individual students' needs,ATBM09BG,ATBLM08BG,TQM-09Bg,TQM-08Bg,Teacher,,✓,✓,✓
+"Is science taught mainly as a separate subject (i.e., not integrated with other subjects) to the students in this class?",ATBS01A,ATBLS01A,TQS-01A,TQS-01A,Teacher,,✓,✓,✓
+Please estimate the time that you spend on science topics with students in this class (minutes per week).,ATBS01B,ATBLS01B,TQS-01B,TQS-01B,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Listen to me explain new science content",ATBS02A,ATBLS02A,TQS-02a,TQS-02a,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Observe natural phenomena such as the weather or a plant growing and describe what they see",ATBS02B,ATBLS02B,TQS-02b,TQS-02b,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Watch me demonstrate an experiment or investigation",ATBS02C,ATBLS02C,TQS-02c,TQS-02c,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Read their textbooks or other resource materials",ATBS02D,ATBLS02D,TQS-02d,TQS-02d,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Memorize facts and principles",ATBS02E,ATBLS02E,TQS-02e,TQS-02e,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Do field work outside the class",ATBS02F,ATBLS02F,TQS-02f,TQS-02f,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Work in mixed ability groups",ATBS02G,ATBLS02G,TQS-02g,TQS-02g,Teacher,,✓,✓,✓
+"In teaching science to the students in this class, how often do you ask them to do the following? Work in same ability groups",ATBS02H,ATBLS02H,TQS-02h,TQS-02h,Teacher,,✓,✓,✓
+How much emphasis do you place on the following when teaching science to students in this class? Encouraging students to ask questions about scientific phenomena,ATBS03A,ATBLS03A,TQS-03a,TQS-03a,Teacher,,✓,✓,✓
+How much emphasis do you place on the following when teaching science to students in this class? Having students predict the outcomes of experiments or investigations,ATBS03B,ATBLS03B,TQS-03b,TQS-03b,Teacher,,✓,✓,✓
+"How much emphasis do you place on the following when teaching science to students in this class? Having students create representations (e.g. models, graphs) to explain scientific phenomena",ATBS03C,ATBLS03C,TQS-03c,TQS-03c,Teacher,,✓,✓,✓
+How much emphasis do you place on the following when teaching science to students in this class? Having students use scientific concepts to explain phenomena,ATBS03D,ATBLS03D,TQS-03d,TQS-03d,Teacher,,✓,✓,✓
+How much emphasis do you place on the following when teaching science to students in this class? Having students conduct experiments (hands-on or virtually),ATBS03E,ATBLS03E,TQS-03e,TQS-03e,Teacher,,✓,✓,✓
+"In teaching science to this class, how confident do you feel about your ability to do the following? Help students appreciate the value of learning science",,ATBLS04A,,TQS-04a,Teacher,,,✓,
+"In teaching science to this class, how confident do you feel about your ability to do the following? Explain science concepts or principles using experiments or other hands-on activities",,ATBLS04B,,TQS-04b,Teacher,,,✓,
+"In teaching science to this class, how confident do you feel about your ability to do the following? Adapt teaching to engage students' interests",,ATBLS04C,,TQS-04c,Teacher,,,✓,
+"In teaching science to this class, how confident do you feel about your ability to do the following? Develop students' higher-order thinking skills",,ATBLS04D,,TQS-04d,Teacher,,,✓,
+"In teaching science to this class, how confident do you feel about your ability to do the following? Make science relevant to students",,ATBLS04E,,TQS-04e,Teacher,,,✓,
+"In teaching science to this class, how confident do you feel about your ability to do the following? Provide challenging science activities for excelling students",,ATBLS04F,,TQS-04f,Teacher,,,✓,
+"In teaching science to this class, how confident do you feel about your ability to do the following? Improve science understanding of struggling students",,ATBLS04G,,TQS-04g,Teacher,,,✓,
+"In teaching science to this class, how confident do you feel about your ability to do the following? Assess students' comprehension of science content",,ATBLS04H,,TQS-04h,Teacher,,,✓,
+"In teaching science to this class, how confident do you feel about your ability to do the following? Incorporate inquiry methods into science teaching",,ATBLS04I,,TQS-04i,Teacher,,,✓,
+"In teaching science to this class, how confident do you feel about your ability to do the following? Manage student behavior during experiments or other hands-on activities",,ATBLS04J,,TQS-04j,Teacher,,,✓,
+How often do you do the following when teaching this class? Develop students' positive attitudes toward the natural environment,ATBS04A,ATBLS05A,TQS-04a,TQS-05a,Teacher,,✓,✓,✓
+"How often do you do the following when teaching this class? Encourage students to use less resources (e.g., <water, energy>)",ATBS04B,ATBLS05B,TQS-04b,TQS-05b,Teacher,,✓,✓,✓
+How often do you do the following when teaching this class? Discuss how student actions in and outside of school can help the natural environment,ATBS04C,ATBLS05C,TQS-04c,TQS-05c,Teacher,,✓,✓,✓
+"How often do you do the following when teaching this class? Discuss environmental issues (e.g., <climate change, endangered animals>)",ATBS04D,ATBLS05D,TQS-04d,TQS-05d,Teacher,,✓,✓,✓
+"Do you do these things to teach students about environmental issues and sustainability? Take students to visit natural areas (e.g., <a pond or meadow>)",ATBS05A,ATBLS06A,TQS-05a,TQS-06a,Teacher,,✓,✓,✓
+"Do you do these things to teach students about environmental issues and sustainability? Have students participate in environmentally responsible activities (e.g., <pick up trash>)",ATBS05B,ATBLS06B,TQS-05b,TQS-06b,Teacher,,✓,✓,✓
+"Do you do these things to teach students about environmental issues and sustainability? Have students do research or projects on a particular environmental topic (e.g., <pollution, climate change>)",ATBS05C,ATBLS06C,TQS-05c,TQS-06c,Teacher,,✓,✓,✓
+Do you do these things to teach students about environmental issues and sustainability? Provide opportunities for students to participate in outdoor environmental education programs outside of school,ATBS05D,ATBLS06D,TQS-05d,TQS-06d,Teacher,,✓,✓,✓
+How much do you agree or disagree that education about environmental sustainability should be a priority for schools?,ATBS06,ATBLS07,TQS-06,TQS-07,Teacher,,✓,✓,✓
+"Do the students in this class have digital devices (including computers, tablets, or smartphones) available to use during science lessons?",ATBS07A,ATBLS08A,TQS-07A,TQS-08A,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The class has digital devices for each student to use,ATBS07BA,ATBLS08BA,TQS-07Ba,TQS-08Ba,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The class has digital devices that students can share,ATBS07BB,ATBLS08BB,TQS-07Bb,TQS-08Bb,Teacher,,✓,✓,✓
+What access do the students have to digital devices? The school has digital devices that the class can use sometimes,ATBS07BC,ATBLS08BC,TQS-07Bc,TQS-08Bc,Teacher,,✓,✓,✓
+What access do the students have to digital devices? Students bring their own digital devices,ATBS07BD,ATBLS08BD,TQS-07Bd,TQS-08Bd,Teacher,,✓,✓,✓
+How often do you have students use digital devices during science instruction?,ATBS07C,ATBLS08C,TQS-07C,TQS-08C,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these science activities? Solve extended or contextualized problems,ATBS07DA,ATBLS08DA,TQS-07Da,TQS-08Da,Teacher,,✓,✓,✓
+"How often do you ask the students in your class to use digital devices to do these science activities? Create graphs, tables, or other data displays",ATBS07DB,ATBLS08DB,TQS-07Db,TQS-08Db,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these science activities? Play games involving science concepts,ATBS07DC,ATBLS08DC,TQS-07Dc,TQS-08Dc,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these science activities? Conduct virtual experiments or other simulations,ATBS07DD,ATBLS08DD,TQS-07Dd,TQS-08Dd,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these science activities? Read the textbook or watch instructional videos,ATBS07DE,ATBLS08DE,TQS-07De,TQS-08De,Teacher,,✓,✓,✓
+How often do you ask the students in your class to use digital devices to do these science activities? Take a test,ATBS07DF,ATBLS08DF,TQS-07Df,TQS-08Df,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Basic differences between living and nonliving things,ATBS09AA,ATBLS09AA,TQS-09Aa,TQS-09Aa,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Defining characteristics of major groups of living things,ATBS09AB,ATBLS09AB,TQS-09Ab,TQS-09Ab,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Life Science: Functions of major structures in living things (e.g., roots in plants)",ATBS09AC,ATBLS09AC,TQS-09Ac,TQS-09Ac,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Life Science: Life cycle stages of common plants and animals (e.g., flowering plants, frogs)",ATBS09AD,ATBLS09AD,TQS-09Ad,TQS-09Ad,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Inherited characteristics of living things,ATBS09AE,ATBLS09AE,TQS-09Ae,TQS-09Ae,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Life Science: How living things survive in their environments (e.g., physical characteristics, behaviors)",ATBS09AF,ATBLS09AF,TQS-09Af,TQS-09Af,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: How human actions impact the environment,ATBS09AG,ATBLS09AG,TQS-09Ag,TQS-09Ag,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Life Science: Common ecosystems and their organisms (e.g., forest, desert)",ATBS09AH,ATBLS09AH,TQS-09Ah,TQS-09Ah,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Interpreting simple food chains,ATBS09AI,ATBLS09AI,TQS-09Ai,TQS-09Ai,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Competition within ecosystems,ATBS09AJ,ATBLS09AJ,TQS-09Aj,TQS-09Aj,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Life Science: Ways for humans to maintain good health and avoid illness,ATBS09AK,ATBLS09AK,TQS-09Ak,TQS-09Ak,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: Solids, liquids, gases, and how their shapes and volumes differ",ATBS09BA,ATBLS09BA,TQS-09Ba,TQS-09Ba,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Grouping objects based on their physical properties,ATBS09BB,ATBLS09BB,TQS-09Bb,TQS-09Bb,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: Examples of mixtures and how they can be separated (e.g., filtration, evaporation)",ATBS09BC,ATBLS09BC,TQS-09Bc,TQS-09Bc,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Magnetic attraction and repulsion,ATBS09BD,ATBLS09BD,TQS-09Bd,TQS-09Bd,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Examples of physical and chemical changes in everyday life,ATBS09BE,ATBLS09BE,TQS-09Be,TQS-09Be,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: How to make solids dissolve faster in liquids (e.g., stirring, heating)",ATBS09BF,ATBLS09BF,TQS-09Bf,TQS-09Bf,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Concentration of solutions,ATBS09BG,ATBLS09BG,TQS-09Bg,TQS-09Bg,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: Sources of energy (e.g., the Sun, wind, water, coal, oil, and gas)",ATBS09BH,ATBLS09BH,TQS-09Bh,TQS-09Bh,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: How light is related to shadows, reflections, and rainbows",ATBS09BI,ATBLS09BI,TQS-09Bi,TQS-09Bi,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: How vibrations are related to sound,ATBS09BJ,ATBLS09BJ,TQS-09Bj,TQS-09Bj,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Movement of heat from hotter to cooler objects,ATBS09BK,ATBLS09BK,TQS-09Bk,TQS-09Bk,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Physical Science: Simple electrical circuits,ATBS09BL,ATBLS09BL,TQS-09Bl,TQS-09Bl,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: How motion is affected by forces (e.g., gravity, pushing, pulling, friction)",ATBS09BM,ATBLS09BM,TQS-09Bm,TQS-09Bm,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Physical Science: Examples of simple machines (e.g., levers, ramps)",ATBS09BN,ATBLS09BN,TQS-09Bn,TQS-09Bn,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Earth Science: Composition of Earth's surface (i.e., land, fresh water, salt water)",ATBS09CA,ATBLS09CA,TQS-09Ca,TQS-09Ca,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: Earth's resources and their use by humans,ATBS09CB,ATBLS09CB,TQS-09Cb,TQS-09Cb,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: Renewable and nonrenewable resources,ATBS09CC,ATBLS09CC,TQS-09Cc,TQS-09Cc,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: How wind and water change Earth's surface over time,ATBS09CD,ATBLS09CD,TQS-09Cd,TQS-09Cd,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: What fossils can show about Earth's history,ATBS09CE,ATBLS09CE,TQS-09Ce,TQS-09Ce,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: How weather changes day to day and with geographic location,ATBS09CF,ATBLS09CF,TQS-09Cf,TQS-09Cf,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: Effects of increasing temperatures on Earth,ATBS09CG,ATBLS09CG,TQS-09Cg,TQS-09Cg,Teacher,,✓,✓,✓
+"When students in this class have been taught each of the following science topics. Earth Science: Composition of the Solar System (the Sun, Earth, Moon, and other planets)",ATBS09CH,ATBLS09CH,TQS-09Ch,TQS-09Ch,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: How the Moon's movement around the Earth changes its appearance,ATBS09CI,ATBLS09CI,TQS-09Ci,TQS-09Ci,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: How Earth's rotation causes day and night,ATBS09CJ,ATBLS09CJ,TQS-09Cj,TQS-09Cj,Teacher,,✓,✓,✓
+When students in this class have been taught each of the following science topics. Earth Science: How Earth's annual movement around the Sun causes seasons or seasonal change,ATBS09CK,ATBLS09CK,TQS-09Ck,TQS-09Ck,Teacher,,✓,✓,✓
+How often do you usually assign science homework to the students in this class?,ATBS10A,ATBLS10A,TQS-10A,TQS-10A,Teacher,,✓,✓,✓
+How often do you do the following with the science homework assignments for this class? Correct assignments and give feedback to students,ATBS10BA,ATBLS10BA,TQS-10Ba,TQS-10Ba,Teacher,,✓,✓,✓
+How often do you do the following with the science homework assignments for this class? Discuss the homework in class,ATBS10BB,ATBLS10BB,TQS-10Bb,TQS-10Bb,Teacher,,✓,✓,✓
+How often do you do the following with the science homework assignments for this class? Monitor whether or not the homework was completed,ATBS10BC,ATBLS10BC,TQS-10Bc,TQS-10Bc,Teacher,,✓,✓,✓
+"When you assign homework in science, how long do you expect it will take the average student in your class to complete?",,ATBLS10C,,TQS-10C,Teacher,,,✓,
+How much importance do you place on these strategies to assess students' learning in science? Observing students as they work,ATBS11A,ATBLS11A,TQS-11a,TQS-11a,Teacher,,✓,✓,✓
+How much importance do you place on these strategies to assess students' learning in science? Asking students to answer questions during class,ATBS11B,ATBLS11B,TQS-11b,TQS-11b,Teacher,,✓,✓,✓
+"How much importance do you place on these strategies to assess students' learning in science? Short, regular written assessments",ATBS11C,ATBLS11C,TQS-11c,TQS-11c,Teacher,,✓,✓,✓
+"How much importance do you place on these strategies to assess students' learning in science? Longer tests (e.g., unit tests or exams)",ATBS11D,ATBLS11D,TQS-11d,TQS-11d,Teacher,,✓,✓,✓
+How much importance do you place on these strategies to assess students' learning in science? Long-term projects,ATBS11E,ATBLS11E,TQS-11e,TQS-11e,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Science content",ATBS12AA,ATBLS12AA,TQS-12Aa,TQS-12Aa,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Science pedagogy/instruction",ATBS12AB,ATBLS12AB,TQS-12Ab,TQS-12Ab,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Science curriculum",ATBS12AC,ATBLS12AC,TQS-12Ac,TQS-12Ac,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Integrating technology into science instruction",ATBS12AD,ATBLS12AD,TQS-12Ad,TQS-12Ad,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Improving students' critical thinking or inquiry skills",ATBS12AE,ATBLS12AE,TQS-12Ae,TQS-12Ae,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Science assessment",ATBS12AF,ATBLS12AF,TQS-12Af,TQS-12Af,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Addressing individual students' needs",ATBS12AG,ATBLS12AG,TQS-12Ag,TQS-12Ag,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Integrating science with other subjects (e.g., mathematics, technology)",ATBS12AH,ATBLS12AH,TQS-12Ah,TQS-12Ah,Teacher,,✓,✓,✓
+"In the past two years, have you participated in professional development in any of the following? Integrating environmentalism and sustainability into science instruction",ATBS12AI,ATBLS12AI,TQS-12Ai,TQS-12Ai,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Science content,ATBS12BA,ATBLS12BA,TQS-12Ba,TQS-12Ba,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Science pedagogy/instruction,ATBS12BB,ATBLS12BB,TQS-12Bb,TQS-12Bb,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Science curriculum,ATBS12BC,ATBLS12BC,TQS-12Bc,TQS-12Bc,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Integrating technology into science instruction,ATBS12BD,ATBLS12BD,TQS-12Bd,TQS-12Bd,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Improving students' critical thinking or inquiry skills,ATBS12BE,ATBLS12BE,TQS-12Be,TQS-12Be,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Science assessment,ATBS12BF,ATBLS12BF,TQS-12Bf,TQS-12Bf,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Addressing individual students' needs,ATBS12BG,ATBLS12BG,TQS-12Bg,TQS-12Bg,Teacher,,✓,✓,✓
+"Do you need future professional development in any of the following? Integrating science with other subjects (e.g., mathematics, technology)",ATBS12BH,ATBLS12BH,TQS-12Bh,TQS-12Bh,Teacher,,✓,✓,✓
+Do you need future professional development in any of the following? Integrating environmentalism and sustainability into science instruction,ATBS12BI,ATBLS12BI,TQS-12Bi,TQS-12Bi,Teacher,,✓,✓,✓
